@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-12T19:21:02.282872+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2025-10-12T20:47:58.773567+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普突然变脸威胁中国，发飙中难掩肝颤",
@@ -40,11 +40,12 @@
             17,
             9,
             24,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 13时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 20时47分]"
         },
         {
           "title": "普京回应特朗普未获诺贝尔和平奖",
@@ -76,11 +77,12 @@
             12,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时33分 ~ 19时21分]"
+          "appearance_count": 10,
+          "time_info": "[14时33分 ~ 20时47分]"
         },
         {
           "title": "如何看特朗普最新关税恐吓",
@@ -191,6 +193,20 @@
           "time_info": "[00时28分 ~ 07时21分]"
         },
         {
+          "title": "特朗普主持的加沙峰会：谁将参会、有啥议程",
+          "url": "https://news.ifeng.com/c/8nOQrANbfKl",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普亲信称中国扼住稀土命脉",
           "url": "https://www.douyin.com/hot/2265982",
           "source": "抖音",
@@ -204,17 +220,17 @@
           "time_info": "[03时18分 ~ 07时21分]"
         },
         {
-          "title": "特朗普主持的加沙峰会：谁将参会、有啥议程",
-          "url": "https://news.ifeng.com/c/8nOQrANbfKl",
+          "title": "孙女：你有啥梦想？特朗普：我想当“伟大的总统”",
+          "url": "https://v.ifeng.com/c/8nOIkkiNmxG",
           "source": "凤凰网",
           "ranks": [
             6,
             8,
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时21分]"
+          "time_info": "[17时23分 ~ 20时47分]"
         },
         {
           "title": "商务部回应特朗普威胁加关税100%",
@@ -228,27 +244,15 @@
           "time_info": "11时08分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-12）",
-          "url": "https://flash.jin10.com/detail/20251012184836153800",
+          "title": "美国副总统万斯：司法部并未执行美国总统特朗普起诉其政治对手的命令。",
+          "url": "https://flash.jin10.com/detail/20251012201701028800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
-          "title": "孙女：你有啥梦想？特朗普：我想当“伟大的总统”",
-          "url": "https://v.ifeng.com/c/8nOIkkiNmxG",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 19时21分]"
+          "time_info": "20时47分"
         },
         {
           "title": "特朗普为何不准中国航班过境俄罗斯",
@@ -260,6 +264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "美国副总统万斯：（当被问及美国总统特朗普是否考虑援引《叛乱法》时）总统正特朗普在考虑所有选项。",
+          "url": "https://flash.jin10.com/detail/20251012201425242800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         },
         {
           "title": "特朗普要求确保发军饷 却并未透露资金来源",
@@ -329,6 +344,18 @@
           "time_info": "[12时28分 ~ 15时23分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-12）",
+          "url": "https://flash.jin10.com/detail/20251012184836153800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时47分]"
+        },
+        {
           "title": "美国总统特朗普：Dan Scavino除了继续担任特朗普政府的副幕僚长外，还将领导白宫总统人事办公室，接替Sergio Gor。Sergio Gor现在将担任驻印度大使。",
           "url": "https://wallstreetcn.com/livenews/2986246",
           "source": "华尔街见闻-快讯",
@@ -366,6 +393,18 @@
           "time_info": "[17时23分 ~ 18时25分]"
         },
         {
+          "title": "特朗普：我想当“伟大的总统”",
+          "url": "https://www.toutiao.com/trending/7559235644397207595/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时47分]"
+        },
+        {
           "title": "特朗普式自夸：诺贝尔和平奖得主夸我才该获奖，但我没开口要",
           "url": "https://m.thepaper.cn/newsDetail_forward_31758857",
           "source": "澎湃新闻",
@@ -376,17 +415,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时25分 ~ 19时21分]"
-        },
-        {
-          "title": "特朗普：我想当“伟大的总统”",
-          "url": "https://www.toutiao.com/trending/7559235644397207595/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "美政府“停摆”第11天，特朗普要求确保支付军人薪资",
@@ -463,11 +491,12 @@
           "ranks": [
             13,
             9,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时56分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时56分 ~ 20时47分]"
         },
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -479,11 +508,12 @@
             15,
             16,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 19时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时28分 ~ 20时47分]"
         },
         {
           "title": "美股全线暴跌对A股冲击会有多大",
@@ -565,8 +595,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 20时47分]"
         },
         {
           "title": "伊朗外长：怀疑美国是否能兑现承诺",
