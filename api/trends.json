@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T07:22:46.130715+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-10-13T10:01:39.718257+08:00",
+  "total_titles_processed": 678,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普一条帖子引发币圈史最大惨案",
@@ -84,11 +84,12 @@
             18,
             19,
             16,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 10时01分]"
         },
         {
           "title": "中东股市收盘播报｜中东股市周末归来补跌，半导体公司领跌以色列个股，没能逃过全球金融市场周五被特朗普血洗的行情",
@@ -120,15 +121,48 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "特朗普释放信号：愿与中国达成协议",
+          "url": "https://www.toutiao.com/trending/7560501650729733674/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "特朗普：若俄乌冲突无法解决，可能会供乌“战斧”",
           "url": "https://news.ifeng.com/c/8nPCaFawghG",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "关于中国，特朗普和万斯嘴软了",
+          "url": "https://news.ifeng.com/c/8nPX08vMcSK",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "特朗普手握“战斧”威胁普京",
+          "url": "https://news.ifeng.com/c/8nPCaFawghG",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "特朗普：与以色列总理内塔尼亚胡的关系良好。内塔尼亚胡做得“非常出色”。",
@@ -140,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E7%89%B9%E6%9C%97%E6%99%AE&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D5%26realpos%3D5%26dgr%3D0%26band_rank%3D5%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26q%3D%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760320774%26pre_seqid%3D17603207746780376401196",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "泽连斯基同特朗普通电话 继续讨论加强乌防空系统",
@@ -226,6 +271,17 @@
           "time_info": "[05时21分 ~ 06时23分]"
         },
         {
+          "title": "特朗普犹太裔女婿现身加沙",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%8A%B9%E5%A4%AA%E8%A3%94%E5%A5%B3%E5%A9%BF%E7%8E%B0%E8%BA%AB%E5%8A%A0%E6%B2%99",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "特朗普：人质可能更早获释。",
           "url": "https://flash.jin10.com/detail/20251013050922637800",
           "source": "金十数据",
@@ -298,7 +354,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -309,7 +365,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -325,13 +381,24 @@
           "time_info": "05时21分"
         },
         {
+          "title": "130万美军欠薪特朗普阅兵狂欢",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23130%E4%B8%87%E7%BE%8E%E5%86%9B%E6%AC%A0%E8%96%AA%E7%89%B9%E6%9C%97%E6%99%AE%E9%98%85%E5%85%B5%E7%8B%82%E6%AC%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D16%26realpos%3D16%26dgr%3D0%26band_rank%3D16%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26q%3D%2523130%25E4%25B8%2587%25E7%25BE%258E%25E5%2586%259B%25E6%25AC%25A0%25E8%2596%25AA%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E9%2598%2585%25E5%2585%25B5%25E7%258B%2582%25E6%25AC%25A2%2523%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760320774%26pre_seqid%3D17603207746780376401196",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "特朗普：若俄乌冲突无法解决 可能会供乌“战斧”",
           "url": "https://wallstreetcn.com/livenews/2986350",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -380,6 +447,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "特朗普犹太裔女婿现身加沙",
+          "url": "https://www.toutiao.com/trending/7560074397462151231/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "特朗普：与泽连斯基进行了良好的交谈。",
           "url": "https://flash.jin10.com/detail/20251013052432659800",
           "source": "金十数据",
@@ -411,6 +489,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "特朗普启程前往以色列",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E5%89%8D%E5%BE%80%E4%BB%A5%E8%89%B2%E5%88%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D23%26realpos%3D23%26dgr%3D0%26band_rank%3D23%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2590%25AF%25E7%25A8%258B%25E5%2589%258D%25E5%25BE%2580%25E4%25BB%25A5%25E8%2589%25B2%25E5%2588%2597%2523%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760320774%26pre_seqid%3D17603207746780376401196",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "特朗普：不担心以色列在人质获释后重启战争。",
@@ -452,7 +541,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -460,7 +549,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "以色列“无意再战”，伊朗：不信",
@@ -480,9 +569,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 10时01分]"
         },
         {
           "title": "伊朗外交部发言人强烈谴责以军袭击黎巴嫩",
@@ -491,7 +580,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -529,13 +618,24 @@
           "time_info": "05时21分"
         },
         {
+          "title": "伊朗外长警告：以色列经常推翻达成的停火协议，不要轻易相信",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31765028",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
           "title": "伊朗外长称伊方将不会出席“沙姆沙伊赫和平峰会”",
           "url": "https://wallstreetcn.com/livenews/2986344",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -543,7 +643,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -551,11 +651,23 @@
           "source": "贴吧",
           "ranks": [
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 10时01分]"
+        },
+        {
+          "title": "美股期指集体反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -568,6 +680,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美股期指集体反弹",
+          "url": "https://www.toutiao.com/trending/7560480850865835529/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
+        },
+        {
+          "title": "美股期指集体反弹",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26pos%3D28%26realpos%3D28%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26q%3D%2523%25E7%25BE%258E%25E8%2582%25A1%25E6%259C%259F%25E6%258C%2587%25E9%259B%2586%25E4%25BD%2593%25E5%258F%258D%25E5%25BC%25B9%2523%26lcate%3D5001%26filter_type%3Drealtimehot%26display_time%3D1760320774%26pre_seqid%3D17603207746780376401196",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时01分"
         }
       ]
     },
@@ -583,11 +728,12 @@
             19,
             16,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时19分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[03时19分 ~ 10时01分]"
         }
       ]
     }
