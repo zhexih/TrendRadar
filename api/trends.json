@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T05:22:21.085315+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2025-10-14T06:25:59.548306+08:00",
+  "total_titles_processed": 581,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "2025经济诺奖聚焦创新何以推动经济增长 得主当场批评特朗普关税",
@@ -44,19 +44,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
-        },
-        {
-          "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
-          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
@@ -67,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "内塔尼亚胡向特朗普赠送金鸽子雕塑",
@@ -82,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -92,11 +81,12 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -106,8 +96,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
+        },
+        {
+          "title": "被媒体问及是否会收回关于中国的话，特朗普急了：你们都是假新闻",
+          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时23分]"
         },
         {
           "title": "解决了加沙问题能不能上天堂？特朗普：不这么认为",
@@ -117,8 +118,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时25分]"
         },
         {
           "title": "希拉里罕见赞扬特朗普",
@@ -129,11 +130,12 @@
             15,
             20,
             9,
-            7
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "美国总统特朗普：不过埃尔多安也是我的朋友。",
@@ -180,6 +182,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "被媒体问及是否会收回关于中国的话 特朗普急了：你们都是假新闻",
+          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时35分 ~ 06时25分]"
+        },
+        {
           "title": "美国总统特朗普：活着的人质已按时获释。",
           "url": "https://flash.jin10.com/detail/20251014001940246800",
           "source": "金十数据",
@@ -189,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "市场消息：美国白宫发布“特朗普持久和平与繁荣宣言”文本。",
-          "url": "https://flash.jin10.com/detail/20251014044414340800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         },
         {
           "title": "市场消息：特朗普在加沙峰会后离开埃及。",
@@ -215,17 +217,6 @@
           "time_info": "[02时35分 ~ 04时29分]"
         },
         {
-          "title": "被媒体问及是否会收回关于中国的话 特朗普急了：你们都是假新闻",
-          "url": "https://v.ifeng.com/c/8nPy3kqkstT",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 05时22分]"
-        },
-        {
           "title": "特朗普：若看到伊朗愿意对话，则准备解除对伊制裁",
           "url": "https://flash.jin10.com/detail/20251014024851254800",
           "source": "金十数据",
@@ -236,6 +227,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时29分]"
+        },
+        {
+          "title": "市场消息：美国白宫发布“特朗普持久和平与繁荣宣言”文本。",
+          "url": "https://flash.jin10.com/detail/20251014044414340800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时25分]"
         },
         {
           "title": "美国油服贝克休斯CEO Lorenzo Simonelli：预计（美国总统特朗普挑起的）关税将在2025年对公司造成超过1亿美元的冲击。",
@@ -352,7 +355,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -399,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "普京和特朗普未就通话事宜达成一致",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%AA%E5%B0%B1%E9%80%9A%E8%AF%9D%E4%BA%8B%E5%AE%9C%E8%BE%BE%E6%88%90%E4%B8%80%E8%87%B4",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         },
         {
           "title": "乌克兰总统泽连斯基：将与美国总统特朗普讨论防空和乌克兰的远程能力问题。",
@@ -458,8 +472,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
@@ -471,19 +485,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
           "url": "https://wallstreetcn.com/articles/3757057",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "美股三大指数高开 稀土概念股大涨",
@@ -495,22 +510,12 @@
             15,
             10,
             16,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
-        },
-        {
-          "title": "新兴市场ETF收涨2.9%，和小盘股指ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/2986970",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
         },
         {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
@@ -537,15 +542,28 @@
           "time_info": "[04时29分 ~ 05时22分]"
         },
         {
+          "title": "新兴市场ETF收涨2.9%，和小盘股指ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/2986970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时25分]"
+        },
+        {
           "title": "半导体ETF收涨超4.4%，领跑美股行业ETF，标普科技板块涨约2.5%",
           "url": "https://wallstreetcn.com/livenews/2986966",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时25分]"
         },
         {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股收盘）",
@@ -554,7 +572,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
         },
@@ -614,6 +632,18 @@
           "time_info": "[02时35分 ~ 04时29分]"
         },
         {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超5.4%，谷歌和英伟达至少涨超2.8%",
+          "url": "https://wallstreetcn.com/livenews/2986963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时25分]"
+        },
+        {
           "title": "市场消息：谷歌(GOOG.O)宣布至2027年将在南卡罗来纳州投资90亿美元。",
           "url": "https://flash.jin10.com/detail/20251014020340523800",
           "source": "金十数据",
@@ -646,17 +676,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超5.4%，谷歌和英伟达至少涨超2.8%",
-          "url": "https://wallstreetcn.com/livenews/2986963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         },
         {
           "title": "谷歌(GOOG.O)：今后媒体清理的方法将采用加密擦除。",
@@ -706,7 +725,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -721,8 +740,32 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 06时25分]"
+        },
+        {
+          "title": "微软遭遇反垄断集体诉讼，被指抬高ChatGPT价格",
+          "url": "https://flash.jin10.com/detail/20251014055122671800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "一份诉讼文件显示：微软造成OpenAI对ChatGPT提高价格。 微软被控对OpenAI限制算力供应，进而违反美国联邦和加州反垄断法律。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2986954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时25分]"
         },
         {
           "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
@@ -736,18 +779,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 02时35分]"
-        },
-        {
-          "title": "一份诉讼文件显示：微软造成OpenAI对ChatGPT提高价格。 微软被控对OpenAI限制算力供应，进而违反美国联邦和加州反垄断法律。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2986954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
         },
         {
           "title": "甲骨文CEO：OpenAI有能力承担每年600亿美元的云基础设施服务费用",
@@ -773,11 +804,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            21
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时29分 ~ 06时25分]"
+        },
+        {
+          "title": "美元指数13日上涨",
+          "url": "https://flash.jin10.com/detail/20251014042246013800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
+          "time_info": "[05时22分 ~ 06时25分]"
         },
         {
           "title": "周一（10月13日）纽约尾盘，彭博谷物分类指数跌0.21%，报28.3002点。 CBOT玉米期货跌0.61%，报1.1025美元/蒲式耳。 CBOT小麦期货跌0.35%，报4.9675美元/蒲式耳。 CBOT大豆期货涨0.15%，报10.0825美元/蒲式耳，豆粕期货跌0.18%，豆油期货涨1.12%。",
@@ -790,17 +834,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时22分]"
-        },
-        {
-          "title": "美元指数13日上涨",
-          "url": "https://flash.jin10.com/detail/20251014042246013800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
         }
       ]
     },
@@ -814,11 +847,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 05时22分]"
+          "appearance_count": 5,
+          "time_info": "[02时35分 ~ 06时25分]"
         },
         {
           "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
@@ -845,11 +879,12 @@
           "ranks": [
             27,
             23,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 05时22分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 06时25分]"
         },
         {
           "title": "市场消息：伊朗驳斥了“欧洲三国”（英国、法国、德国）关于希望重启核谈判的说法，称其缺乏“诚意”。",
