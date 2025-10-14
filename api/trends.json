@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T04:29:33.080036+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2025-10-15T05:23:33.979775+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -27,8 +27,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "特朗普签署加沙停火协议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            18,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "自扇耳光?特朗普关税战求和中国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "美国总统特朗普：（被问及是否可能很快与阿根廷达成自由贸易协议）是的，有可能。",
@@ -42,31 +67,6 @@
           "time_info": "02时38分"
         },
         {
-          "title": "特朗普签署加沙停火协议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AD%BE%E7%BD%B2%E5%8A%A0%E6%B2%99%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            18,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
-        },
-        {
-          "title": "自扇耳光?特朗普关税战求和中国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345729&amp;topic_name=%E8%87%AA%E6%89%87%E8%80%B3%E5%85%89%3F%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%E6%88%98%E6%B1%82%E5%92%8C%E4%B8%AD%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
-        },
-        {
           "title": "美国总统特朗普：我们想帮助阿根廷。",
           "url": "https://flash.jin10.com/detail/20251015021601486800",
           "source": "金十数据",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "阿根廷MERVAL指数收跌2.23%，报188.2万点，北京时间02:15前后开启一波显著的“急转直下”行情。 美国总统特朗普和财长贝森特会见阿根廷总统米莱，称若米莱在大选中失败，美方将不再支持。",
+          "url": "https://wallstreetcn.com/livenews/2987715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "特朗普抱怨：这张照片实在太烂了(图)",
@@ -122,6 +133,20 @@
           "time_info": "02时38分"
         },
         {
+          "title": "特朗普：我对“两国方案”还没有表态",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26,
+            23,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时37分 ~ 05时23分]"
+        },
+        {
           "title": "WTI原油期货目前跌1.25%，暂报58.33美元。 美国总统特朗普自认为，可能与俄罗斯总统普京仍然关系良好。",
           "url": "https://wallstreetcn.com/livenews/2987675",
           "source": "华尔街见闻-快讯",
@@ -159,19 +184,6 @@
           "time_info": "[03时21分 ~ 04时29分]"
         },
         {
-          "title": "特朗普：我对“两国方案”还没有表态",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%AF%B9%E2%80%9C%E4%B8%A4%E5%9B%BD%E6%96%B9%E6%A1%88%E2%80%9D%E8%BF%98%E6%B2%A1%E6%9C%89%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时37分 ~ 04时29分]"
-        },
-        {
           "title": "美国总统特朗普：加沙和平计划第二阶段现在启动。 工作尚未完成，并不是所有死亡的人质都被归还。",
           "url": "https://wallstreetcn.com/livenews/2987645",
           "source": "华尔街见闻-快讯",
@@ -183,6 +195,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时21分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普100%关税威胁是虚晃一枪吗",
+          "url": "https://www.toutiao.com/trending/7560969100101422601/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时21分 ~ 05时23分]"
         },
         {
           "title": "提醒：美国总统特朗普会见阿根廷总统米莱，财长贝森特在场。",
@@ -221,25 +246,13 @@
           "time_info": "[01时21分 ~ 02时38分]"
         },
         {
-          "title": "特朗普100%关税威胁是虚晃一枪吗",
-          "url": "https://www.toutiao.com/trending/7560969100101422601/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时29分]"
-        },
-        {
           "title": "富国银行收涨7.1%，创特朗普赢得2024年大选以来最佳单日表现。",
           "url": "https://wallstreetcn.com/livenews/2987697",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -253,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "特朗普：西班牙拒升军费 考虑对其征收关税",
+          "url": "https://flash.jin10.com/detail/20251015045032442800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "美国总统特朗普：认为阿根廷总统米莱正处于经济成功的边缘。",
@@ -319,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "富国银行收涨7.15%，创特朗普赢得2024年大选以来最佳单日表现。 费城银行指数收涨1.8%，成分股中、华尔街大行中，除了富国银行之外，花旗集团收涨3.89%，美国银行涨2.52%，摩根士丹利涨0.14%，摩根大通则收跌1.91%，高盛集团跌2.04%。",
+          "url": "https://wallstreetcn.com/livenews/2987697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -481,7 +516,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -599,7 +634,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -609,19 +644,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -632,8 +668,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251015040522568800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时23分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251015040516317800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时23分]"
+        },
+        {
+          "title": "标普500指数美股尾盘转跌，一度跌0.2%",
+          "url": "https://wallstreetcn.com/livenews/2987689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时23分]"
         },
         {
           "title": "分析师：美联储并未在意贸易局势升级 美股未来或迎来顺风",
@@ -647,48 +719,26 @@
           "time_info": "03时21分"
         },
         {
-          "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251015040522568800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "金十图示：2025年10月14日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251015040516317800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "标普500指数美股尾盘转跌，一度跌0.2%",
-          "url": "https://wallstreetcn.com/livenews/2987689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20251015040050861800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美股费城半导体指数收跌约2.3%，小盘股指收涨约1.4%，地区银行指数涨3%",
+          "url": "https://wallstreetcn.com/livenews/2987696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -708,7 +758,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -727,7 +777,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -737,8 +787,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "英国央行行长：全球不确定性与央行购金推高金价",
+          "url": "https://flash.jin10.com/detail/20251015051028696800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "金价",
@@ -791,7 +852,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -802,8 +863,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
@@ -815,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
+          "url": "https://flash.jin10.com/detail/20251015044342683800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         }
       ]
     },
@@ -839,11 +911,12 @@
           "url": "https://wallstreetcn.com/livenews/2987686",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时23分]"
         }
       ]
     },
@@ -856,22 +929,24 @@
           "url": "https://flash.jin10.com/detail/20251015040523665800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时23分]"
         },
         {
           "title": "周二（10月14日）纽约尾盘，ICE美元指数下跌0.25%，报99.025点，日内交投区间为99.475-98.988点。 彭博美元指数跌0.11%，报1214.25点，日内交投区间为1219.18-1213.81点。",
           "url": "https://wallstreetcn.com/livenews/2987685",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时23分]"
         }
       ]
     },
