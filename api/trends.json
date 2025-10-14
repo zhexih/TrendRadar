@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T16:32:06.267592+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2025-10-14T17:29:04.265807+08:00",
+  "total_titles_processed": 1529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
@@ -21,6 +21,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时33分 ~ 11时07分]"
+        },
+        {
+          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
+          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 17时29分]"
         },
         {
           "title": "特朗普以色列议会演讲遭抗议者打断",
@@ -62,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时52分 ~ 16时32分]"
+          "appearance_count": 14,
+          "time_info": "[09时52分 ~ 17时29分]"
         },
         {
           "title": "以色列送了特朗普一个特别的礼物",
@@ -76,17 +87,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时52分 ~ 13时32分]"
-        },
-        {
-          "title": "鲁比奥没夸到位？特朗普当场反问：才50年？",
-          "url": "https://v.ifeng.com/c/8nRLZYpIezc",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 16时32分]"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -102,8 +102,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 16时32分]"
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 17时29分]"
         },
         {
           "title": "自扇耳光?特朗普关税战求和中国",
@@ -114,11 +114,12 @@
             14,
             19,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 16时32分]"
+          "appearance_count": 23,
+          "time_info": "[00时33分 ~ 17时29分]"
         },
         {
           "title": "特朗普C位合影喊话：大家笑起来",
@@ -129,11 +130,12 @@
             18,
             20,
             26,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 16时32分]"
+          "appearance_count": 13,
+          "time_info": "[11时07分 ~ 17时29分]"
         },
         {
           "title": "梅德韦杰夫：向乌供应“战斧”将让所有人遭殃 ，尤其是特朗普",
@@ -213,6 +215,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时33分 ~ 01时23分]"
+        },
+        {
+          "title": "特朗普马克龙26秒“掰手腕式握手”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时07分 ~ 17时29分]"
         },
         {
           "title": "和平峰会特朗普挨个点名各国领导人",
@@ -330,19 +345,6 @@
           "time_info": "13时32分"
         },
         {
-          "title": "特朗普马克龙26秒“掰手腕式握手”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A9%AC%E5%85%8B%E9%BE%9926%E7%A7%92%E2%80%9C%E6%8E%B0%E6%89%8B%E8%85%95%E5%BC%8F%E6%8F%A1%E6%89%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            23,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 16时32分]"
-        },
-        {
           "title": "市场消息：特朗普在加沙峰会后离开埃及。",
           "url": "https://flash.jin10.com/detail/20251014022057130800",
           "source": "金十数据",
@@ -378,6 +380,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普为何要保住对华贸易",
+          "url": "https://www.toutiao.com/trending/7560960551040323135/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时31分 ~ 17时29分]"
         },
         {
           "title": "美国油服贝克休斯CEO Lorenzo Simonelli：预计（美国总统特朗普挑起的）关税将在2025年对公司造成超过1亿美元的冲击。",
@@ -417,17 +431,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普为何要保住对华贸易",
-          "url": "https://www.toutiao.com/trending/7560960551040323135/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 16时32分]"
         },
         {
           "title": "以前总理反驳特朗普：内塔尼亚胡都没认罪，赦免他是巨大的丑闻",
@@ -523,6 +526,17 @@
           "time_info": "[00时34分 ~ 01时23分]"
         },
         {
+          "title": "特朗普将卡尼误称为总统",
+          "url": "https://www.douyin.com/hot/2269224",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 17时29分]"
+        },
+        {
           "title": "诺贝尔经济学奖得主批评特朗普关税",
           "url": "https://news.ifeng.com/c/8nQpqMAF9lj",
           "source": "凤凰网",
@@ -598,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普抱怨时代周刊封面图史上最差",
+          "url": "https://wallstreetcn.com/livenews/2987394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "市场消息：塞西和特朗普在和平峰会上发表声明。",
@@ -735,18 +760,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时52分 ~ 16时32分]"
+          "appearance_count": 14,
+          "time_info": "[09时52分 ~ 17时29分]"
         },
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -846,18 +872,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "美股稀土股盘前普涨，USA Rare Earth涨超11%，MP Materials涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/2987376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -898,6 +913,18 @@
           "time_info": "[05时22分 ~ 06时25分]"
         },
         {
+          "title": "美股稀土股盘前普涨，USA Rare Earth涨超11%，MP Materials涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/2987376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时29分]"
+        },
+        {
           "title": "半导体ETF收涨超4.4%，领跑美股行业ETF，标普科技板块涨约2.5%",
           "url": "https://wallstreetcn.com/livenews/2986966",
           "source": "华尔街见闻-快讯",
@@ -910,13 +937,24 @@
           "time_info": "[05时22分 ~ 06时25分]"
         },
         {
+          "title": "美股盘前中概股走低，阿里巴巴(BABA.N)下跌3.7%，拼多多(PDD.O)下跌2.4%，百度(BIDU.O)下跌3.6%。",
+          "url": "https://flash.jin10.com/detail/20251014171305290800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "纳微半导体美股盘前大涨近25%，此前公司宣布为英伟达800伏直流AI工厂提供新型芯片。",
           "url": "https://wallstreetcn.com/livenews/2987373",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -927,7 +965,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -977,11 +1015,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 16时32分]"
+          "appearance_count": 13,
+          "time_info": "[11时07分 ~ 17时29分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -993,8 +1032,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时21分 ~ 15时26分]"
+          "appearance_count": 13,
+          "time_info": "[07时21分 ~ 17时29分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -1249,6 +1288,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D2%26realpos%3D2%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D1%26flag%3D1%26display_time%3D1760426630%26pre_seqid%3D17604266302800378216521",
+          "source": "微博",
+          "ranks": [
+            2,
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时25分 ~ 17时29分]"
+        },
+        {
           "title": "目前的金价，你还敢追吗？",
           "url": "https://www.zhihu.com/question/1960053472419378672",
           "source": "知乎",
@@ -1260,18 +1312,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时35分 ~ 07时21分]"
-        },
-        {
-          "title": "金价银价跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D2%26realpos%3D2%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26pos%3D1%26flag%3D1%26display_time%3D1760426630%26pre_seqid%3D17604266302800378216521",
-          "source": "微博",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时25分 ~ 16时32分]"
         },
         {
           "title": "景顺：预计各国央行将持续增加黄金储备，金价涨势有望延续",
@@ -1429,7 +1469,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
