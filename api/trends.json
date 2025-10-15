@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T19:23:37.286790+08:00",
-  "total_titles_processed": 1781,
+  "generated_at": "2025-10-15T20:56:16.187558+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 92,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -47,6 +47,17 @@
           "time_info": "[09时56分 ~ 17时29分]"
         },
         {
+          "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
+          "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时29分 ~ 20时56分]"
+        },
+        {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
           "url": "https://wallstreetcn.com/articles/3757151",
           "source": "华尔街见闻",
@@ -59,6 +70,32 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时56分 ~ 17时29分]"
+        },
+        {
+          "title": "中方回应特朗普指责停止进口美大豆",
+          "url": "https://www.toutiao.com/trending/7561238900635762751/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 20时56分]"
+        },
+        {
+          "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
+          "url": "https://www.cls.cn/detail/2170153",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 20时56分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -89,6 +126,17 @@
           "time_info": "[00时32分 ~ 12时30分]"
         },
         {
+          "title": "特朗普施压米莱：选举没赢，美援就撤",
+          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 20时56分]"
+        },
+        {
           "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
           "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
           "source": "凤凰网",
@@ -101,41 +149,15 @@
           "time_info": "[14时37分 ~ 17时29分]"
         },
         {
-          "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
-          "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
+          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
+          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
           "source": "凤凰网",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时29分 ~ 19时23分]"
-        },
-        {
-          "title": "中方回应特朗普指责停止进口美大豆",
-          "url": "https://www.toutiao.com/trending/7561238900635762751/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            4,
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时23分]"
-        },
-        {
-          "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
-          "url": "https://www.cls.cn/detail/2170153",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时23分]"
+          "time_info": "[18时28分 ~ 20时56分]"
         },
         {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
@@ -147,6 +169,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 07时23分]"
+        },
+        {
+          "title": "外交部回应“特朗普威胁报复中方”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8A%A5%E5%A4%8D%E4%B8%AD%E6%96%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            5,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时41分 ~ 20时56分]"
         },
         {
           "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
@@ -191,28 +227,6 @@
           "time_info": "[15时26分 ~ 17时29分]"
         },
         {
-          "title": "特朗普施压米莱：选举没赢，美援就撤",
-          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时23分]"
-        },
-        {
-          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
-          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 19时23分]"
-        },
-        {
           "title": "特朗普抱怨称中国故意不买美国大豆",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%95%85%E6%84%8F%E4%B8%8D%E4%B9%B0%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D2%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%258A%25B1%25E6%2580%25A8%25E7%25A7%25B0%25E4%25B8%25AD%25E5%259B%25BD%25E6%2595%2585%25E6%2584%258F%25E4%25B8%258D%25E4%25B9%25B0%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%25A7%25E8%25B1%2586%2523%26pos%3D1%26cate%3D5001%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D2%26flag%3D1%26display_time%3D1760502534%26pre_seqid%3D176050253481300561127",
           "source": "微博",
@@ -222,19 +236,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 12时30分]"
-        },
-        {
-          "title": "外交部回应“特朗普威胁报复中方”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8A%A5%E5%A4%8D%E4%B8%AD%E6%96%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 19时23分]"
         },
         {
           "title": "美国总统特朗普：（被问及是否可能很快与阿根廷达成自由贸易协议）是的，有可能。",
@@ -259,6 +260,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "美国财长贝森特：我非常有可能在特朗普之前前往亚洲。",
+          "url": "https://flash.jin10.com/detail/20251015204409189800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "特朗普抱怨：这张照片实在太烂了(图)",
           "url": "https://news.ifeng.com/c/8nRrXfFKai8",
           "source": "凤凰网",
@@ -281,6 +293,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "美国财长贝森特：将在特朗普亚洲之行中公布贸易公告。",
+          "url": "https://flash.jin10.com/detail/20251015204329146800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "特朗普：下令打击了一艘在委内瑞拉沿海从事毒品贩运活动的船只",
           "url": "https://flash.jin10.com/detail/20251015021401523800",
           "source": "金十数据",
@@ -290,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "美国财长贝森特：最初的11位美联储主席候选人都很优秀。 美联储主席候选人已缩小至5人。 下一轮美联储主席面试将在亚洲访问结束后进行。 下一轮面试之后，预计会有3到4个名字提交给特朗普。 担任美联储主席的一个标准是“思想开放”。",
+          "url": "https://wallstreetcn.com/livenews/2988256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美国总统特朗普：今天将支持阿根廷总统米莱。",
@@ -414,6 +448,18 @@
           "time_info": "[06时25分 ~ 07时23分]"
         },
         {
+          "title": "中方回应特朗普拟禁中美航班过境俄",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E7%A6%81%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%8F%AD%E8%BF%87%E5%A2%83%E4%BF%84",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时56分]"
+        },
+        {
           "title": "提醒：美国总统特朗普会见阿根廷总统米莱，财长贝森特在场。",
           "url": "https://wallstreetcn.com/livenews/2987664",
           "source": "华尔街见闻-快讯",
@@ -448,6 +494,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D13%26c_type%3D31%26realpos%3D13%26cate%3D5001%26lcate%3D5001%26flag%3D1%26pos%3D14%26stream_entry_id%3D31%26display_time%3D1760532888%26pre_seqid%3D17605328882220055866",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 20时56分]"
         },
         {
           "title": "富国银行收涨7.15%，创特朗普赢得2024年大选以来最佳单日表现。 费城银行指数收涨1.8%，成分股中、华尔街大行中，除了富国银行之外，花旗集团收涨3.89%，美国银行涨2.52%，摩根士丹利涨0.14%，摩根大通则收跌1.91%，高盛集团跌2.04%。",
@@ -870,6 +927,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "特朗普再威胁对西班牙加征“惩罚性关税”，西班牙外交大臣回应",
+          "url": "https://wallstreetcn.com/livenews/2988231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
+        },
+        {
           "title": "美国总统特朗普：死者并没有像承诺的那样被归还。",
           "url": "https://flash.jin10.com/detail/20251015010216756800",
           "source": "金十数据",
@@ -980,15 +1048,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "中方回应特朗普拟禁中美航班过境俄",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E7%A6%81%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%8F%AD%E8%BF%87%E5%A2%83%E4%BF%84",
-          "source": "百度热搜",
+          "title": "佩斯科夫：普京与特朗普近期能否通话尚不确定",
+          "url": "https://wallstreetcn.com/livenews/2988221",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时23分"
+          "time_info": "20时56分"
         },
         {
           "title": "特朗普施压米莱：选举没赢，美援就撤",
@@ -997,7 +1065,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
@@ -1218,7 +1286,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1491,6 +1559,18 @@
           "time_info": "[12时29分 ~ 13时26分]"
         },
         {
+          "title": "金价银价大涨原因",
+          "url": "https://www.douyin.com/hot/2270986",
+          "source": "抖音",
+          "ranks": [
+            29,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时23分 ~ 20时56分]"
+        },
+        {
           "title": "金价银价跳水",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D23%26stream_entry_id%3D31%26band_rank%3D22%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D0%26c_type%3D31%26lcate%3D5001%26realpos%3D22%26display_time%3D1760459488%26pre_seqid%3D1760459488627024411879",
           "source": "微博",
@@ -1545,17 +1625,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
-        },
-        {
-          "title": "金价银价大涨原因",
-          "url": "https://www.douyin.com/hot/2270986",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时23分"
         }
       ]
     },
@@ -1606,7 +1675,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -1617,7 +1686,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         }
