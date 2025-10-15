@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T01:24:00.812191+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2025-10-16T02:41:45.982955+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
@@ -15,8 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普施压米莱：选举没赢，美援就撤",
+          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
+          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时41分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -31,26 +53,37 @@
           "time_info": "[00时32分 ~ 01时24分]"
         },
         {
-          "title": "特朗普施压米莱：选举没赢，美援就撤",
-          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
-          "source": "凤凰网",
+          "title": "市场消息：美国法官阻止特朗普政府在政府停摆期间解雇30多个机构的员工。",
+          "url": "https://flash.jin10.com/detail/20251016023631067800",
+          "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
-          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
-          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
-          "source": "凤凰网",
+          "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员。",
+          "url": "https://wallstreetcn.com/livenews/2988376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。 参议院跨党派“非正式”磋商所达成的结果还没有移交至众议院。",
+          "url": "https://wallstreetcn.com/livenews/2988372",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
@@ -58,11 +91,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时41分]"
+        },
+        {
+          "title": "中方回应特朗普指责停止进口美大豆",
+          "url": "https://www.toutiao.com/trending/7561238900635762751/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 02时41分]"
         },
         {
           "title": "阿根廷债券价格上涨。 据Semafor报道，美国财长贝森特对记者们表示，特朗普政府设法为阿根廷争取200亿美元额外的（救助）“安排”，10月份以来两次总体干预的规模将达到400亿美元。",
@@ -77,15 +123,15 @@
           "time_info": "[00时33分 ~ 01时24分]"
         },
         {
-          "title": "中方回应特朗普指责停止进口美大豆",
-          "url": "https://www.toutiao.com/trending/7561238900635762751/",
-          "source": "今日头条",
+          "title": "美媒：特朗普政府授权CIA在委内瑞拉采取秘密行动",
+          "url": "https://flash.jin10.com/detail/20251016023307421800",
+          "source": "金十数据",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "美国财长贝森特：如果美国最高法院裁定反对国际紧急经济权力法（IEEPA）下的关税，特朗普政府可转而采取其他关税措施。",
@@ -97,6 +143,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "据纽约时报：特朗普政府授权中央情报局在委内瑞拉采取秘密行动。",
+          "url": "https://flash.jin10.com/detail/20251016020356680800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D26%26realpos%3D25%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D25%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26display_time%3D1760553628%26pre_seqid%3D17605536285290173838109",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     },
@@ -113,8 +181,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时41分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -125,8 +193,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时41分]"
         },
         {
           "title": "金店老板说金价跌起来像泄洪",
@@ -136,8 +204,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时41分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -147,8 +215,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 02时41分]"
         }
       ]
     },
@@ -164,8 +232,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时41分]"
         }
       ]
     },
@@ -182,8 +250,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时41分]"
         }
       ]
     },
