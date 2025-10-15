@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-16T04:29:04.281205+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2025-10-16T05:24:53.669711+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
+          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时24分]"
+        },
         {
           "title": "胡锡进：特朗普急缺新筹码，竟拿“地沟油”威胁中国",
           "url": "https://news.ifeng.com/c/8nTRWt9dnoI",
@@ -14,17 +26,6 @@
           "ranks": [
             2,
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
-          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -61,11 +62,35 @@
             20,
             25,
             23,
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
+          "url": "https://news.ifeng.com/c/8nTJvw1uBxX",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时22分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员。",
@@ -79,15 +104,15 @@
           "time_info": "02时41分"
         },
         {
-          "title": "特朗普：莫迪保证印度不会购买俄罗斯石油",
-          "url": "https://wallstreetcn.com/livenews/2988405",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普威胁西班牙加关税 欧盟：将做出适当回应",
+          "url": "https://flash.jin10.com/detail/20251016050809195800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "05时24分"
         },
         {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
@@ -118,9 +143,23 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D26%26realpos%3D25%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D25%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26display_time%3D1760553628%26pre_seqid%3D17605536285290173838109",
+          "source": "微博",
+          "ranks": [
+            25,
+            24,
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 05时24分]"
         },
         {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
@@ -148,6 +187,18 @@
           "time_info": "[02时41分 ~ 03时22分]"
         },
         {
+          "title": "特朗普：莫迪保证印度不会购买俄罗斯石油",
+          "url": "https://wallstreetcn.com/livenews/2988405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
           "title": "美国众议院民主党领导人Jeffries：我们认为，政府关门造成的裁员是非法的。 希望国会山或者法院能扭转（特朗普政府的）裁员决定。 参议院跨党派“非正式”磋商所达成的结果还没有移交至众议院。",
           "url": "https://wallstreetcn.com/livenews/2988372",
           "source": "华尔街见闻-快讯",
@@ -159,30 +210,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普威胁更换2028年奥运举办地",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D26%26realpos%3D25%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D25%26dgr%3D0%26cate%3D5001%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26display_time%3D1760553628%26pre_seqid%3D17605536285290173838109",
-          "source": "微博",
-          "ranks": [
-            25,
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时41分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
-          "url": "https://news.ifeng.com/c/8nTJvw1uBxX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时22分 ~ 04时29分]"
         },
         {
           "title": "美媒：特朗普政府授权CIA在委内瑞拉采取秘密行动",
@@ -233,6 +260,29 @@
           "time_info": "[03时22分 ~ 04时29分]"
         },
         {
+          "title": "特朗普威胁“暴力”解除哈马斯武装",
+          "url": "https://wallstreetcn.com/livenews/2988407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普威胁要对西班牙加关税，欧盟：将做出适当回应",
+          "url": "https://wallstreetcn.com/livenews/2988423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普刚刚签署一项行政令，指示国防部长确保美国现役军人能在10月15日收到他们的工资，尽管目前民主党正导致政府停摆。",
           "url": "https://flash.jin10.com/detail/20251016024630325800",
           "source": "金十数据",
@@ -242,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美国法官暂时阻止特朗普政府在“停摆”期间裁员",
+          "url": "https://wallstreetcn.com/livenews/2988422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "市场消息：特朗普下令冻结联邦招聘。",
@@ -266,17 +327,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "特朗普威胁“暴力”解除哈马斯武装",
-          "url": "https://wallstreetcn.com/livenews/2988407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
           "title": "据CNN：美国总统特朗普表示，如果哈马斯不遵守停火协议，以色列军队将“随时听候我的命令”在加沙地带恢复战斗。",
           "url": "https://flash.jin10.com/detail/20251016023810263800",
           "source": "金十数据",
@@ -299,15 +349,48 @@
           "time_info": "00时33分"
         },
         {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://wallstreetcn.com/livenews/2988414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普谈及股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/2988413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "美国总统特朗普：现在将建议政府官员开始调查旧金山的犯罪问题。",
           "url": "https://flash.jin10.com/detail/20251016035216971800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
+          "url": "https://wallstreetcn.com/livenews/2988411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国总统特朗普：将很快前往其他城市打击犯罪。",
@@ -316,7 +399,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -327,7 +410,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -343,21 +426,109 @@
           "time_info": "02时41分"
         },
         {
+          "title": "特朗普：印度承诺将停止俄油采购 但需要一个过程",
+          "url": "https://flash.jin10.com/detail/20251016044537623800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
+          "url": "https://flash.jin10.com/detail/20251016043753123800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://flash.jin10.com/detail/20251016043129250800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：如果没有关税，我们就没有国家安全。",
+          "url": "https://flash.jin10.com/detail/20251016043033249800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "美国白宫：特朗普将延长联邦雇员招聘冻结期",
           "url": "https://flash.jin10.com/detail/20251016031912641800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普：哈马斯曾得到伊朗支持，现在伊朗只求生存。",
+          "url": "https://flash.jin10.com/detail/20251016042649911800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普谈哈马斯解除武装：将不需要美国军事力量干预。",
+          "url": "https://flash.jin10.com/detail/20251016042358046800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普：我们希望哈马斯解除武装。",
+          "url": "https://flash.jin10.com/detail/20251016042320401800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普：哈马斯正在挖掘，他们发现了很多尸体。",
+          "url": "https://flash.jin10.com/detail/20251016042311229800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -369,8 +540,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时24分]"
         },
         {
           "title": "金十图示：2025年10月15日（周三）美股热门股票行情一览（美股收盘）",
@@ -379,7 +550,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -390,7 +561,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -399,11 +570,12 @@
           "url": "https://wallstreetcn.com/livenews/2988400",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 AMD涨超9%",
@@ -412,15 +584,26 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "纳斯达克生物科技指数收涨1.6%，表现好于美股大盘指数。 成分股奥麦罗制药（OMER）收涨154.27%，该公司与诺和诺德围绕Zaltenibart达成许可协议；Sana Biotechnology涨33.03%，Absci涨28.21%，Recursion Pharmaceuticals涨15.62%，Xeris Pharmaceuticals涨14.04%。 Q32 Bio则收跌5.68%表现倒数第三，Esperion跌6.67%，EyePoint Pharmaceuticals跌10.79%。",
+          "url": "https://wallstreetcn.com/livenews/2988410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -431,8 +614,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时24分]"
+        },
+        {
+          "title": "金店老板说金价跌起来像泄洪",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E8%AF%B4%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B5%B7%E6%9D%A5%E5%83%8F%E6%B3%84%E6%B4%AA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D20%26cate%3D5001%26lcate%3D5001%26realpos%3D21%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E5%25BA%2597%25E8%2580%2581%25E6%259D%25BF%25E8%25AF%25B4%25E9%2587%2591%25E4%25BB%25B7%25E8%25B7%258C%25E8%25B5%25B7%25E6%259D%25A5%25E5%2583%258F%25E6%25B3%2584%25E6%25B4%25AA%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D21%26display_time%3D1760545876%26pre_seqid%3D1760545876865017383462",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时24分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -449,34 +643,46 @@
           "time_info": "[00时32分 ~ 04时29分]"
         },
         {
-          "title": "金店老板说金价跌起来像泄洪",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E8%AF%B4%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B5%B7%E6%9D%A5%E5%83%8F%E6%B3%84%E6%B4%AA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D20%26cate%3D5001%26lcate%3D5001%26realpos%3D21%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E5%25BA%2597%25E8%2580%2581%25E6%259D%25BF%25E8%25AF%25B4%25E9%2587%2591%25E4%25BB%25B7%25E8%25B7%258C%25E8%25B5%25B7%25E6%259D%25A5%25E5%2583%258F%25E6%25B3%2584%25E6%25B4%25AA%2523%26dgr%3D0%26flag%3D1%26filter_type%3Drealtimehot%26band_rank%3D21%26display_time%3D1760545876%26pre_seqid%3D1760545876865017383462",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 04时29分]"
-        },
-        {
           "title": "金价飙涨三大原因",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E4%B8%89%E5%A4%A7%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D24%26stream_entry_id%3D31%26realpos%3D23%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%25A3%2599%25E6%25B6%25A8%25E4%25B8%2589%25E5%25A4%25A7%25E5%258E%259F%25E5%259B%25A0%2523%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D23%26display_time%3D1760548926%26pre_seqid%3D17605489269280059729",
           "source": "微博",
           "ranks": [
             23,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 04时29分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 05时24分]"
+        },
+        {
+          "title": "金价涨穿4200美元，创历史新高，现货白银涨超3%",
+          "url": "https://wallstreetcn.com/livenews/2988417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "阿根廷MERVAL指数收涨1.56%，逼近192万点。 特朗普政府短短一周之内两次干预阿根廷外汇市场，美国财长贝森特称合计出资400亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2988428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
         {
           "title": "美元指数15日下跌",
           "url": "https://flash.jin10.com/detail/20251016040508196800",
@@ -484,7 +690,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -507,7 +713,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         }
@@ -515,7 +721,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -539,6 +745,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时29分]"
+        },
+        {
+          "title": "美国总统特朗普邀请白宫装修捐赠者参加奢华的白宫晚宴，嘉宾包括来自洛克希德马丁、微软、Meta公司、谷歌和亚马逊公司的代表。",
+          "url": "https://flash.jin10.com/detail/20251016043045817800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
@@ -553,7 +770,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         }
