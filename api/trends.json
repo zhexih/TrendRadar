@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T13:26:00.246985+08:00",
-  "total_titles_processed": 1195,
+  "generated_at": "2025-10-15T14:38:09.808521+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普呼吁赦免内塔尼亚胡，可行吗？",
@@ -29,8 +29,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 13时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普称考虑终止与中国部分贸易往来",
+          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 14时38分]"
         },
         {
           "title": "特朗普签署加沙停火协议",
@@ -61,6 +73,18 @@
           "time_info": "[00时32分 ~ 12时30分]"
         },
         {
+          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
+          "url": "https://wallstreetcn.com/articles/3757151",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普向遭枪杀的柯克追授总统自由勋章",
           "url": "https://news.ifeng.com/c/8nSZnW70ZhT",
           "source": "凤凰网",
@@ -87,28 +111,6 @@
           "time_info": "[02时37分 ~ 07时23分]"
         },
         {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 13时26分]"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 13时26分]"
-        },
-        {
           "title": "特朗普抱怨称中国故意不买美国大豆",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%95%85%E6%84%8F%E4%B8%8D%E4%B9%B0%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D2%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E6%258A%25B1%25E6%2580%25A8%25E7%25A7%25B0%25E4%25B8%25AD%25E5%259B%25BD%25E6%2595%2585%25E6%2584%258F%25E4%25B8%258D%25E4%25B9%25B0%25E7%25BE%258E%25E5%259B%25BD%25E5%25A4%25A7%25E8%25B1%2586%2523%26pos%3D1%26cate%3D5001%26c_type%3D31%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D2%26flag%3D1%26display_time%3D1760502534%26pre_seqid%3D176050253481300561127",
           "source": "微博",
@@ -118,6 +120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时29分 ~ 12时30分]"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普：（被问及是否可能很快与阿根廷达成自由贸易协议）是的，有可能。",
@@ -307,6 +320,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 13时26分]"
+        },
+        {
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "摩根大通：如果（总统特朗普执意造成）美国缺少风电和光伏能源，美国将面临错过实现能源目标的风险。",
@@ -800,8 +824,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 13时26分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 14时38分]"
         },
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -1019,22 +1043,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 13时26分]"
-        },
-        {
-          "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
-          "url": "https://flash.jin10.com/detail/20251015120826259800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时30分"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 14时38分]"
         },
         {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
@@ -1046,8 +1060,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 13时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 14时38分]"
+        },
+        {
+          "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
+          "url": "https://flash.jin10.com/detail/20251015120826259800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "OpenAI制定五年期商业计划，以实现1万亿美元支出承诺。（英国金融时报）",
@@ -1368,8 +1393,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 13时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 14时38分]"
         }
       ]
     }
