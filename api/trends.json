@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T06:47:04.500295+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2025-10-17T07:22:06.959743+08:00",
+  "total_titles_processed": 728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时22分]"
         },
         {
           "title": "特朗普中东行有何成果",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 06时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 07时22分]"
         },
         {
           "title": "特朗普：将与普京在布达佩斯举行会晤",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 06时47分]"
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 07时22分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -208,6 +208,17 @@
           "time_info": "[04时29分 ~ 05时24分]"
         },
         {
+          "title": "特朗普称与普京通话取得进展，计划在布达佩斯进行会面",
+          "url": "https://www.cls.cn/detail/2172088",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
           "title": "美国总统特朗普称，将在匈牙利首都布匈牙利达佩斯会见俄罗斯总统普京。 WTI原油期货目前跌1.19%，暂报57.15美元。",
           "url": "https://wallstreetcn.com/livenews/2989141",
           "source": "华尔街见闻-快讯",
@@ -242,6 +253,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普称将与普京在布达佩斯会面",
+          "url": "https://www.toutiao.com/trending/7561955734129217050/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "联合声明：美国与巴西同意共同努力，尽早安排美国总统特朗普与巴西总统卢拉的会晤。",
+          "url": "https://flash.jin10.com/detail/20251017070457920800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特朗普推鼓励生育措施 药企降价换关税豁免",
@@ -352,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "为了降低不孕群体的生育成本，白宫宣布：“特朗普”网站现在囊括了试管婴儿药物定价协议",
+          "url": "https://wallstreetcn.com/livenews/2989235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "美国总统特朗普：我对国际海事组织本周将在伦敦投票通过全球碳税感到愤怒。",
@@ -536,7 +580,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -558,7 +602,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -679,7 +723,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         }
@@ -687,8 +731,45 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2172108",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 07时22分]"
+        },
+        {
+          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2171914",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时37分 ~ 07时22分]"
+        },
+        {
+          "title": "银行坏账担忧引爆美股抛售，美股三大指数跌，黄金升破4300美元，VIX涨超20%",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
           "url": "https://wallstreetcn.com/articles/3757299",
@@ -700,30 +781,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 01时24分]"
-        },
-        {
-          "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2172108",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 06时47分]"
-        },
-        {
-          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2171914",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时37分 ~ 06时47分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -886,7 +943,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "是什么一直支持黄金价格一路飙升",
@@ -914,6 +971,18 @@
           "time_info": "[01时24分 ~ 02时37分]"
         },
         {
+          "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。 彭博数据显示，现货黄金价格涨约1%，报4379.93美元。",
+          "url": "https://wallstreetcn.com/livenews/2989215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时22分]"
+        },
+        {
           "title": "金价年内涨幅超50% 专家提醒",
           "url": "https://www.toutiao.com/trending/7560578938016432191/",
           "source": "今日头条",
@@ -926,15 +995,15 @@
           "time_info": "[03时24分 ~ 05时24分]"
         },
         {
-          "title": "白银和黄金价格创历史新高，美国银行业信用危机催生新的避险需求。 彭博数据显示，现货黄金价格涨约1%，报4379.93美元。",
-          "url": "https://wallstreetcn.com/livenews/2989215",
-          "source": "华尔街见闻-快讯",
+          "title": "担忧美国地区银行潜在风险 金价有望创5年来最大单周涨幅",
+          "url": "https://flash.jin10.com/detail/20251017065150740800",
+          "source": "金十数据",
           "ranks": [
-            18
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "07时22分"
         },
         {
           "title": "专家：金价到5000美元将比预期快",
@@ -966,6 +1035,18 @@
           "time_info": "[02时37分 ~ 06时47分]"
         },
         {
+          "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
+          "url": "https://wallstreetcn.com/livenews/2989216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时22分]"
+        },
+        {
           "title": "10年期美债收益率再次跌破4%整数心里关口",
           "url": "https://flash.jin10.com/detail/20251017015227360800",
           "source": "金十数据",
@@ -975,17 +1056,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
-          "url": "https://wallstreetcn.com/livenews/2989216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时47分"
         }
       ]
     },
