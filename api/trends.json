@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T07:24:07.021568+08:00",
-  "total_titles_processed": 699,
+  "generated_at": "2025-10-16T09:56:21.268998+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -48,6 +48,18 @@
           "time_info": "[01时23分 ~ 07时24分]"
         },
         {
+          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
+          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时24分 ~ 09时56分]"
+        },
+        {
           "title": "特朗普又操心：若阿根廷与中国军方合作，我会很不安",
           "url": "https://news.ifeng.com/c/8nTJvw1uBxX",
           "source": "凤凰网",
@@ -69,17 +81,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 02时41分]"
-        },
-        {
-          "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
-          "url": "https://news.ifeng.com/c/8nUEhR8pAgS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时24分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -121,6 +122,17 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
+          "title": "特朗普宣布一个大消息，印度人都不敢相信",
+          "url": "https://news.ifeng.com/c/8nUPhsh5ie6",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "美国法官暂时阻止总统特朗普的联邦政府在关门期间裁员。",
           "url": "https://wallstreetcn.com/livenews/2988376",
           "source": "华尔街见闻-快讯",
@@ -132,6 +144,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "“极不寻常”，特朗普打算旁听最高法院关税案辩论",
+          "url": "https://news.ifeng.com/c/8nUVjJ1QvG4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普将延长联邦政府雇员招聘冻结期限。",
           "url": "https://flash.jin10.com/detail/20251016025935957800",
           "source": "金十数据",
@@ -141,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "美财长：特朗普将于10月底访问日本",
+          "url": "https://wallstreetcn.com/livenews/2988574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普威胁：若哈马斯不遵守停火协议 其一声令下以色列将恢复行动",
@@ -171,9 +205,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "白宫公布特朗普官方日程称，特朗普将于当地时间周四下午3点宣布消息。",
+          "url": "https://wallstreetcn.com/livenews/2988569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         },
         {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
@@ -428,6 +473,28 @@
           "time_info": "03时22分"
         },
         {
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
+          "url": "https://www.cls.cn/detail/2170822",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "市场消息：一名法官延长了暂时阻止特朗普政府在俄勒冈州波特兰市部署国民警卫队的命令。",
           "url": "https://flash.jin10.com/detail/20251016024147449800",
           "source": "金十数据",
@@ -533,7 +600,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         },
@@ -645,22 +712,23 @@
           "time_info": "[00时32分 ~ 06时22分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
+          "url": "https://www.cls.cn/detail/2170808",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 09时56分]"
+        },
+        {
           "title": "贸易消息引发市场剧烈波动，美股冲高回落后收涨，黄金再创新高",
           "url": "https://wallstreetcn.com/articles/3757230",
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
-          "url": "https://www.cls.cn/detail/2170808",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -750,7 +818,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -770,11 +838,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 07时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 09时56分]"
         },
         {
           "title": "金价飙涨三大原因",
@@ -817,15 +886,37 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
+          "title": "金店老板：金价跌起来像泄洪",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%EF%BC%9A%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B5%B7%E6%9D%A5%E5%83%8F%E6%B3%84%E6%B4%AA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
           "title": "黄金还能“牛”多久？ 专家：迭创新高后，金价或步入震荡阶段",
           "url": "https://wallstreetcn.com/livenews/2988450",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "澳新银行将其年底黄金价格预测上调至4400美元/盎司，预计到2026年6月金价将达到峰值，接近4600美元/盎司；预计白银价格在2026年6月达到57.5美元/盎司的峰值。",
+          "url": "https://wallstreetcn.com/livenews/2988528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     },
@@ -932,7 +1023,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
