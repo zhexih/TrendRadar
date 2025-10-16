@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T16:35:52.732648+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2025-10-16T17:28:55.644918+08:00",
+  "total_titles_processed": 1610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -124,6 +124,21 @@
           "time_info": "[02时41分 ~ 07时24分]"
         },
         {
+          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
+          "url": "https://www.cls.cn/detail/2171140",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 17时28分]"
+        },
+        {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
           "url": "https://news.ifeng.com/c/8nUIAVA78Ut",
           "source": "凤凰网",
@@ -135,18 +150,15 @@
           "time_info": "[07时23分 ~ 07时24分]"
         },
         {
-          "title": "特朗普又爆料大新闻：莫迪已保证印度不再购买俄油",
-          "url": "https://www.cls.cn/detail/2171140",
-          "source": "财联社热门",
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            5,
-            6,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 16时35分]"
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时28分]"
         },
         {
           "title": "特朗普挪用五角大楼资金发军饷",
@@ -171,6 +183,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "特朗普回应发军饷：有位绅士愿意付",
+          "url": "https://www.toutiao.com/trending/7560868714460823595/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
           "title": "“极不寻常”，特朗普打算旁听最高法院关税案辩论",
           "url": "https://news.ifeng.com/c/8nUVjJ1QvG4",
           "source": "凤凰网",
@@ -191,17 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "特朗普威胁：若哈马斯不遵守停火协议 其一声令下以色列将恢复行动",
@@ -517,6 +529,17 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时28分]"
+        },
+        {
           "title": "美国白宫：美国总统特朗普刚刚签署一项行政令，指示国防部长确保美国现役军人能在10月15日收到他们的工资，尽管目前民主党正导致政府停摆。",
           "url": "https://flash.jin10.com/detail/20251016024630325800",
           "source": "金十数据",
@@ -545,7 +568,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -638,17 +661,6 @@
           "time_info": "04时29分"
         },
         {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "美国总统特朗普宣布名为“夏季高温行动”的全面执法行动的结果。",
           "url": "https://flash.jin10.com/detail/20251016034449123800",
           "source": "金十数据",
@@ -691,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普称对西班牙很不爽",
+          "url": "https://www.toutiao.com/trending/7560714140441509924/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美国总统特朗普：将前往最高法院，观看关税官司的审理情况。",
@@ -848,8 +871,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 17时28分]"
         },
         {
           "title": "金价除以10=历史性的1979年牛市？",
@@ -858,11 +881,12 @@
           "ranks": [
             9,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 16时35分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 17时28分]"
         },
         {
           "title": "金价暴涨 买黄金还是黄金股",
@@ -887,11 +911,12 @@
             12,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时29分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 17时28分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）上海金早盘价为967.36元/克，较国际金价(971.33元/克)，低3.97元/克",
@@ -1127,7 +1152,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1138,7 +1163,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
@@ -1159,8 +1184,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 16时35分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 17时28分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -1329,7 +1354,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         }
