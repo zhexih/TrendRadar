@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T18:29:57.241466+08:00",
-  "total_titles_processed": 1707,
+  "generated_at": "2025-10-16T19:22:03.305054+08:00",
+  "total_titles_processed": 1797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
@@ -96,6 +96,17 @@
           "time_info": "[00时32分 ~ 02时41分]"
         },
         {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 19时22分]"
+        },
+        {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
           "url": "https://www.cls.cn/detail/2170153",
           "source": "财联社热门",
@@ -138,17 +149,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时24分 ~ 18时29分]"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时29分]"
         },
         {
           "title": "特朗普：泽连斯基将在访美期间阐述对俄“进攻”理由",
@@ -249,6 +249,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 19时22分]"
         },
         {
           "title": "特朗普政府一周内两次干预阿根廷汇市：总额400亿美元",
@@ -375,15 +387,15 @@
           "time_info": "[09时56分 ~ 11时08分]"
         },
         {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 19时22分]"
         },
         {
           "title": "美媒：特朗普政府授权CIA在委内瑞拉采取秘密行动",
@@ -482,17 +494,6 @@
           "time_info": "[17时28分 ~ 18时29分]"
         },
         {
-          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
-          "url": "https://wallstreetcn.com/articles/3757263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 18时29分]"
-        },
-        {
           "title": "特朗普威胁“暴力”解除哈马斯武装",
           "url": "https://wallstreetcn.com/livenews/2988407",
           "source": "华尔街见闻-快讯",
@@ -529,6 +530,17 @@
           "time_info": "[06时22分 ~ 07时24分]"
         },
         {
+          "title": "特朗普中东行有何成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E4%B8%9C%E8%A1%8C%E6%9C%89%E4%BD%95%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
+        {
           "title": "特朗普证实已授权中情局在委内瑞拉开展行动",
           "url": "https://wallstreetcn.com/livenews/2988414",
           "source": "华尔街见闻-快讯",
@@ -563,6 +575,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时22分]"
+        },
+        {
+          "title": "特朗普下月或亲赴美最高法院“督战”",
+          "url": "https://www.toutiao.com/trending/7561326265605898276/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
+        {
+          "title": "特朗普政府批准16亿美元贷款担保 支持电网升级",
+          "url": "https://flash.jin10.com/detail/20251016184111812800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "美国白宫：美国总统特朗普刚刚签署一项行政令，指示国防部长确保美国现役军人能在10月15日收到他们的工资，尽管目前民主党正导致政府停摆。",
@@ -631,6 +665,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "克里姆林宫：俄罗斯可以以更低的价格向那些特朗普正试图说服不购买俄罗斯石油的国家提供高质量的石油。",
+          "url": "https://flash.jin10.com/detail/20251016181333778800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美国财长贝森特：如果美国最高法院裁定反对国际紧急经济权力法（IEEPA）下的关税，特朗普政府可转而采取其他关税措施。",
           "url": "https://flash.jin10.com/detail/20251016000816972800",
           "source": "金十数据",
@@ -640,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-16）",
+          "url": "https://flash.jin10.com/detail/20251016181128488800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "美国总统特朗普：现在将建议政府官员开始调查旧金山的犯罪问题。",
@@ -821,7 +877,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "金价银价大涨原因",
@@ -842,11 +898,12 @@
           "ranks": [
             6,
             21,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 18时29分]"
+          "appearance_count": 12,
+          "time_info": "[09时56分 ~ 19时22分]"
         },
         {
           "title": "金店老板说金价跌起来像泄洪",
@@ -946,6 +1003,17 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
+          "title": "专家：金价到5000美元将比预期快",
+          "url": "https://www.douyin.com/hot/2272129",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
+        },
+        {
           "title": "下周金价会重演2015年行情吗",
           "url": "https://www.toutiao.com/trending/7561615409112157705/",
           "source": "今日头条",
@@ -956,6 +1024,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时08分 ~ 12时29分]"
+        },
+        {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "金价疯涨黄金回收商生意火爆",
@@ -987,7 +1066,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -1028,7 +1107,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -1171,6 +1250,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "美国合众银行三季度每股收益1.22美元，预估1.12美元。 三季度净利息收入为42.5亿美元，预估41.7亿美元。 美国合众银行美股盘前涨2%。",
+          "url": "https://wallstreetcn.com/livenews/2988942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美股盘前，AI芯片股普涨，台积电(TSM.N)涨2.4%，Q3净利润创历史新高；博通(AVGO.O)涨1.46%，英伟达(NVDA.O)、AMD(AMD.O)涨超1%。蔚来汽车(NIO.N)盘前跌6.6%。",
           "url": "https://flash.jin10.com/detail/20251016160116214800",
           "source": "金十数据",
@@ -1198,8 +1288,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 18时29分]"
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 19时22分]"
         },
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
