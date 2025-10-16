@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T04:29:32.827420+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2025-10-17T05:24:47.958712+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 57,
       "titles": [
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时24分]"
         },
         {
           "title": "特朗普中东行有何成果",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 05时24分]"
         },
         {
           "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普：将与普京在布达佩斯举行会晤",
+          "url": "https://news.ifeng.com/c/8nVihEC18zq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
@@ -172,6 +183,18 @@
           "time_info": "[03时24分 ~ 04时29分]"
         },
         {
+          "title": "美国总统特朗普：我认为与俄罗斯总统普京的这次通话不错。",
+          "url": "https://wallstreetcn.com/livenews/2989179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
           "title": "美国总统特朗普称，将在匈牙利首都布匈牙利达佩斯会见俄罗斯总统普京。 WTI原油期货目前跌1.19%，暂报57.15美元。",
           "url": "https://wallstreetcn.com/livenews/2989141",
           "source": "华尔街见闻-快讯",
@@ -208,6 +231,40 @@
           "time_info": "[00时35分 ~ 01时24分]"
         },
         {
+          "title": "印度回应特朗普称该国承诺停购俄油",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AF%A5%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%81%9C%E8%B4%AD%E4%BF%84%E6%B2%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D26%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25AF%25A5%25E5%259B%25BD%25E6%2589%25BF%25E8%25AF%25BA%25E5%2581%259C%25E8%25B4%25AD%25E4%25BF%2584%25E6%25B2%25B9%2523%26dgr%3D0%26band_rank%3D26%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D27%26flag%3D0%26display_time%3D1760646477%26pre_seqid%3D1760646477485017546539",
+          "source": "微博",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
+          "title": "特朗普推鼓励生育措施 药企降价换关税豁免",
+          "url": "https://flash.jin10.com/detail/20251017044839346800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：预计汽油价格将（反弹并）达到2美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/2989199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "美国总统特朗普：（希望大家）和美国站在一起，明天在伦敦投下反对票。",
           "url": "https://flash.jin10.com/detail/20251017024506125800",
           "source": "金十数据",
@@ -217,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普：食品杂货价格下跌。经济好得令人难以置信。",
+          "url": "https://flash.jin10.com/detail/20251017044535440800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国总统特朗普：我们不会容忍美国消费者承受更高的价格，也不会容忍建立一个新的绿色骗局官僚机构，把钱花在他们的绿色梦想上。",
@@ -236,9 +304,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普：我认为汽油价格有望降至2美元。",
+          "url": "https://flash.jin10.com/detail/20251017044511188800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "美国总统特朗普：美国不会支持这种“全球绿色新骗局”的运输税，也不会以任何方式或形式遵守它。",
@@ -258,20 +337,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
         {
-          "title": "美国总统特朗普：我认为与俄罗斯总统普京的这次通话不错。",
-          "url": "https://wallstreetcn.com/livenews/2989179",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：我认为我们已就牛肉达成协议，以降低价格。",
+          "url": "https://flash.jin10.com/detail/20251017044412230800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "05时24分"
         },
         {
           "title": "美国总统特朗普：我对国际海事组织本周将在伦敦投票通过全球碳税感到愤怒。",
@@ -291,9 +370,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普谈关于对俄罗斯实施制裁的法案：时机或许不太恰当。",
+          "url": "https://flash.jin10.com/detail/20251017044015852800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "内部电子邮件显示，特朗普政府将在停摆期间向部分联邦执法人员支付薪酬。",
@@ -307,13 +397,35 @@
           "time_info": "02时37分"
         },
         {
+          "title": "特朗普被问及对俄罗斯的制裁时表示：我会和众议院议长约翰逊与参议院共和党领袖图恩讨论关于普京的通话，并作出正确决定。",
+          "url": "https://flash.jin10.com/detail/20251017044001207800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美国总统特朗普：（2025年夏季）与俄罗斯总统普京在阿拉斯加会面（为后续沟通）奠定基础。 对俄罗斯的制裁法案恐怕并非完美时机。",
+          "url": "https://wallstreetcn.com/livenews/2989193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "美国总统特朗普：生育药物价格将大幅下降。",
           "url": "https://flash.jin10.com/detail/20251017034806271800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -324,9 +436,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "特朗普被问及政府停摆问题时表示：我们必须处理好医疗保健。",
+          "url": "https://flash.jin10.com/detail/20251017043644975800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普：鲁比奥、拉夫罗夫即将会面，尽快确定时间和地点。",
+          "url": "https://flash.jin10.com/detail/20251017043446309800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "据华尔街日报：美国商会起诉特朗普政府，指控其新出台的H-1B签证收费政策。",
@@ -338,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "特朗普：我认为减肥药的价格会低很多。",
+          "url": "https://flash.jin10.com/detail/20251017043330231800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "克里姆林宫证实普京与特朗普的通话正在进行中。",
@@ -360,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "特朗普：阿拉斯加峰会为与普京的下次会晤奠定基础。",
+          "url": "https://flash.jin10.com/detail/20251017043323576800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "特朗普提议布达佩斯作为美俄峰会地点，普京支持该提议",
@@ -406,15 +562,26 @@
           "time_info": "03时24分"
         },
         {
-          "title": "印度回应特朗普称该国承诺停购俄油",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AF%A5%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%81%9C%E8%B4%AD%E4%BF%84%E6%B2%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D26%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E8%25AF%25A5%25E5%259B%25BD%25E6%2589%25BF%25E8%25AF%25BA%25E5%2581%259C%25E8%25B4%25AD%25E4%25BF%2584%25E6%25B2%25B9%2523%26dgr%3D0%26band_rank%3D26%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D27%26flag%3D0%26display_time%3D1760646477%26pre_seqid%3D1760646477485017546539",
-          "source": "微博",
+          "title": "特朗普：美国也需要战斧导弹。",
+          "url": "https://flash.jin10.com/detail/20251017042854894800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普：将在两周左右的时间内与普京会面。",
+          "url": "https://flash.jin10.com/detail/20251017042829720800",
+          "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "05时24分"
         },
         {
           "title": "克里姆林宫官员：普京与特朗普的通话是应俄罗斯方面主动提议进行的。",
@@ -428,6 +595,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "特朗普：如有必要，将在美国支持下对哈马斯采取行动。",
+          "url": "https://flash.jin10.com/detail/20251017042744644800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "WTI原油期货目前涨0.3%，暂报58美元。 现货黄金日内涨幅达1.5%，报4271.1美元/盎司。 美国总统特朗普称，其正与俄罗斯总统普京通电话。",
           "url": "https://wallstreetcn.com/livenews/2989095",
           "source": "华尔街见闻-快讯",
@@ -439,6 +617,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "特朗普：我将会见泽连斯基并告诉他普京的来电情况。",
+          "url": "https://flash.jin10.com/detail/20251017042735960800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "美国农业部长Rollins：一旦特朗普政府结束停摆，我们将准备铺开农民救助计划。",
           "url": "https://wallstreetcn.com/livenews/2989094",
           "source": "华尔街见闻-快讯",
@@ -448,12 +637,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普谈及普京和泽连斯基：我们可能会分别举行会晤。",
+          "url": "https://flash.jin10.com/detail/20251017042723130800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
@@ -468,24 +668,13 @@
           "time_info": "[00时34分 ~ 01时24分]"
         },
         {
-          "title": "区域银行ETF暴跌6.2%，和银行业ETF领跌美股行业ETF，标普金融板块也收跌超2.7%",
-          "url": "https://wallstreetcn.com/livenews/2989192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251017040617083800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -496,7 +685,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -512,6 +701,18 @@
           "time_info": "01时24分"
         },
         {
+          "title": "区域银行ETF暴跌6.2%，和银行业ETF领跌美股行业ETF，标普金融板块也收跌超2.7%",
+          "url": "https://wallstreetcn.com/livenews/2989192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
+        },
+        {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2171914",
           "source": "财联社热门",
@@ -521,8 +722,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 05时24分]"
+        },
+        {
+          "title": "美股地区银行指数收跌6.3%，创4月份以来最差单日表现。 Zions收跌13%，Western Alliance跌11%。",
+          "url": "https://wallstreetcn.com/livenews/2989185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
         },
         {
           "title": "美股地区银行指数跌幅扩大至4.7%，Zions信用危机触发板块层面的抛售，投资者对银行业不良贷款产生恐慌情绪",
@@ -543,20 +756,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
         {
-          "title": "美股地区银行指数收跌6.3%，创4月份以来最差单日表现。 Zions收跌13%，Western Alliance跌11%。",
-          "url": "https://wallstreetcn.com/livenews/2989185",
-          "source": "华尔街见闻-快讯",
+          "title": "诺和诺德美股盘后下跌3.5%，礼来公司下跌1.7%，特朗普称减肥药物价格将下调。",
+          "url": "https://flash.jin10.com/detail/20251017045101882800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "05时24分"
+        },
+        {
+          "title": "礼来制药美股盘后跌2.7%，诺和诺德ADR跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/2989196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "小盘股指ETF收跌2.1%，领跌美股大类资产类ETF，黄金ETF则涨超2.3%",
+          "url": "https://wallstreetcn.com/livenews/2989195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约1.5%，英伟达涨1.1%为半导体板块“护盘”",
+          "url": "https://wallstreetcn.com/livenews/2989194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -579,6 +825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "美股地区银行指数收跌6.3%，华尔街银行指数跌超3.6%，英伟达“护盘”半导体指数涨约0.5%",
+          "url": "https://wallstreetcn.com/livenews/2989181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         }
       ]
     },
@@ -612,26 +869,27 @@
           "time_info": "[01时24分 ~ 02时37分]"
         },
         {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 05时24分]"
+        },
+        {
           "title": "专家：金价到5000美元将比预期快",
           "url": "https://www.douyin.com/hot/2272129",
           "source": "抖音",
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "金价年内涨幅超50% 专家提醒",
-          "url": "https://www.toutiao.com/trending/7560578938016432191/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时24分"
+          "time_info": "04时29分"
         }
       ]
     },
@@ -686,8 +944,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时37分 ~ 05时24分]"
         },
         {
           "title": "10年期美债收益率再次跌破4%整数心里关口",
@@ -711,11 +969,12 @@
           "url": "https://wallstreetcn.com/livenews/2989175",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时24分]"
         }
       ]
     }
