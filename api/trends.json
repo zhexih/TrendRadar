@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T02:37:48.398396+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2025-10-17T03:24:32.531884+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 32,
       "titles": [
         {
           "title": "中方回应特朗普让中国停买俄石油",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时24分]"
         },
         {
           "title": "特朗普中东行有何成果",
@@ -27,8 +27,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时24分]"
+        },
+        {
+          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
+          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时24分]"
         },
         {
           "title": "克里姆林宫官员：美国总统特朗普告诉俄罗斯总统普京，冲突的结束将为与俄罗斯的经济合作开辟令人振奋的机遇。",
@@ -37,20 +48,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
         {
-          "title": "美国参议院举行程序性投票，没能通过关于在特朗普联邦政府关门期间继续向军队提供资金的立法草案，意味着无法举行参议院全体表决。",
-          "url": "https://wallstreetcn.com/livenews/2989156",
-          "source": "华尔街见闻-快讯",
+          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
+          "url": "https://wallstreetcn.com/articles/3757263",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时24分]"
         },
         {
           "title": "市场消息：俄罗斯总统普京与美国总统特朗普的通话结束。",
@@ -81,43 +93,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "特朗普授权CIA在委开展“致命行动”，马杜罗：不需要",
-          "url": "https://news.ifeng.com/c/8nV1O2GQlWd",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯总统普京支持与美国总统特朗普在匈牙利首都布达佩斯会面这个想法。（国际文传电讯社）",
-          "url": "https://wallstreetcn.com/livenews/2989151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
-        },
-        {
-          "title": "万人裁员计划暂停！美国法院暂时禁止特朗普在政府关门期间大规模裁员",
-          "url": "https://wallstreetcn.com/articles/3757263",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普与俄罗斯总统普京的电话沟通情况富有成效。 双方同意下周举行工作人员层面的会议。 双方可能会再次沟通。 特朗普很快将介绍本次通话的情况。",
@@ -125,11 +103,60 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            13
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时24分 ~ 03时24分]"
+        },
+        {
+          "title": "美国参议院举行程序性投票，没能通过关于在特朗普联邦政府关门期间继续向军队提供资金的立法草案，意味着无法举行参议院全体表决。",
+          "url": "https://wallstreetcn.com/livenews/2989156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时37分]"
+          "time_info": "[02时37分 ~ 03时24分]"
+        },
+        {
+          "title": "克里姆林宫：俄罗斯总统普京支持与美国总统特朗普在匈牙利首都布达佩斯会面这个想法。（国际文传电讯社）",
+          "url": "https://wallstreetcn.com/livenews/2989151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时24分]"
+        },
+        {
+          "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
+          "url": "https://wallstreetcn.com/livenews/2989147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时24分]"
+        },
+        {
+          "title": "美国总统特朗普称，将在匈牙利首都布匈牙利达佩斯会见俄罗斯总统普京。 WTI原油期货目前跌1.19%，暂报57.15美元。",
+          "url": "https://wallstreetcn.com/livenews/2989141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时24分]"
         },
         {
           "title": "俄罗斯国家电视台记者：克里姆林宫确认总统普京与美国总统特朗普正在通电话。",
@@ -144,26 +171,81 @@
           "time_info": "[00时35分 ~ 01时24分]"
         },
         {
-          "title": "俄美总统电话会谈结束 特朗普称将与普京在布达佩斯会面",
-          "url": "https://wallstreetcn.com/livenews/2989147",
+          "title": "美国多个监管部门撤销气候相关融资风险标准。 美联储称，贷款机构应该对一系列因素具有韧性。 10月16日稍早，该国总统特朗普宣称，美国不会从任何方式上遵守全球碳税。",
+          "url": "https://wallstreetcn.com/livenews/2989164",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "03时24分"
         },
         {
-          "title": "美国总统特朗普称，将在匈牙利首都布匈牙利达佩斯会见俄罗斯总统普京。 WTI原油期货目前跌1.19%，暂报57.15美元。",
-          "url": "https://wallstreetcn.com/livenews/2989141",
+          "title": "美国总统特朗普：（希望大家）和美国站在一起，明天在伦敦投下反对票。",
+          "url": "https://flash.jin10.com/detail/20251017024506125800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：我们不会容忍美国消费者承受更高的价格，也不会容忍建立一个新的绿色骗局官僚机构，把钱花在他们的绿色梦想上。",
+          "url": "https://flash.jin10.com/detail/20251017024431635800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国商会起诉总统特朗普提出的10万美元H-1B签证费用政策，称将造成严重损害。",
+          "url": "https://wallstreetcn.com/livenews/2989162",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：美国不会支持这种“全球绿色新骗局”的运输税，也不会以任何方式或形式遵守它。",
+          "url": "https://flash.jin10.com/detail/20251017024401742800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：我对国际海事组织本周将在伦敦投票通过全球碳税感到愤怒。",
+          "url": "https://flash.jin10.com/detail/20251017024256133800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时37分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美国总统特朗普：美国不会从任何方式上遵守全球碳税。",
+          "url": "https://wallstreetcn.com/livenews/2989158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "内部电子邮件显示，特朗普政府将在停摆期间向部分联邦执法人员支付薪酬。",
@@ -172,9 +254,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "据华尔街日报：美国商会起诉特朗普政府，指控其新出台的H-1B签证收费政策。",
+          "url": "https://flash.jin10.com/detail/20251017022845082800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "克里姆林宫证实普京与特朗普的通话正在进行中。",
@@ -194,9 +287,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "特朗普提议布达佩斯作为美俄峰会地点，普京支持该提议",
+          "url": "https://flash.jin10.com/detail/20251017022352802800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "俄罗斯股市在普京与特朗普通话后上涨。",
@@ -205,7 +309,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -216,9 +320,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "克里姆林宫官员：俄罗斯总统普京告诉美国总统特朗普，\"战斧\"导弹不会改变战场局势，但会损害美俄关系及和平进程。",
+          "url": "https://flash.jin10.com/detail/20251017021451678800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "克里姆林宫官员：普京与特朗普的通话是应俄罗斯方面主动提议进行的。",
+          "url": "https://flash.jin10.com/detail/20251017021426027800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "WTI原油期货目前涨0.3%，暂报58美元。 现货黄金日内涨幅达1.5%，报4271.1美元/盎司。 美国总统特朗普称，其正与俄罗斯总统普京通电话。",
@@ -276,22 +402,24 @@
           "url": "https://www.cls.cn/detail/2171914",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时24分]"
         },
         {
           "title": "美股地区银行指数跌幅扩大至4.7%，Zions信用危机触发板块层面的抛售，投资者对银行业不良贷款产生恐慌情绪",
           "url": "https://wallstreetcn.com/livenews/2989138",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时24分]"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -300,7 +428,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -311,9 +439,51 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "是什么一直支持黄金价格一路飙升",
+          "url": "https://www.toutiao.com/trending/7561799628442570266/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 02时37分]"
+        },
+        {
+          "title": "投资者关注美联储降息前景：两年期美债收益率跌约8个基点，逼近3.41%，日元走强，美股下跌，金价回落",
+          "url": "https://wallstreetcn.com/livenews/2989128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时37分]"
+        },
+        {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -357,37 +527,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "是什么一直支持黄金价格一路飙升",
-          "url": "https://www.toutiao.com/trending/7561799628442570266/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 02时37分]"
-        },
-        {
-          "title": "投资者关注美联储降息前景：两年期美债收益率跌约8个基点，逼近3.41%，日元走强，美股下跌，金价回落",
-          "url": "https://wallstreetcn.com/livenews/2989128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时37分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -398,9 +537,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时24分]"
         },
         {
           "title": "10年期美债收益率再次跌破4%整数心里关口",
@@ -409,7 +548,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         }
