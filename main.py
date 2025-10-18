@@ -3485,6 +3485,7 @@ API_IDS = [
     ("thepaper", "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
     ("ifeng", "凤凰网"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
     ("tieba", "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
+    ("solidot", "奇客"),("fastbull-news", "法布财经"),("zaobao", "联合早报"),
 ]
 
 
