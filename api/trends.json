@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T22:18:25.929538+08:00",
-  "total_titles_processed": 1521,
+  "generated_at": "2025-10-18T23:19:20.791974+08:00",
+  "total_titles_processed": 1569,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时23分 ~ 22时18分]"
+          "appearance_count": 18,
+          "time_info": "[07时23分 ~ 23时19分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -60,6 +60,29 @@
           "time_info": "[09时48分 ~ 14时34分]"
         },
         {
+          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
+          "url": "https://wallstreetcn.com/articles/3757414",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 23时19分]"
+        },
+        {
+          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
+          "url": "https://www.cls.cn/detail/2173450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时23分 ~ 23时19分]"
+        },
+        {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
           "url": "https://wallstreetcn.com/livenews/2989895",
           "source": "华尔街见闻-快讯",
@@ -91,29 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
-          "url": "https://wallstreetcn.com/articles/3757414",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时18分]"
-        },
-        {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时18分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -200,7 +200,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价银价大跳水 国内金饰价格下调",
@@ -296,6 +296,29 @@
           "time_info": "[00时33分 ~ 01时23分]"
         },
         {
+          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
+          "url": "https://wallstreetcn.com/articles/3757430",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时19分]"
+        },
+        {
+          "title": "中美通话如何影响黄金价格",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时05分 ~ 23时19分]"
+        },
+        {
           "title": "非洲股市收盘播报｜南非股市收跌超2%，追随金价从历史最高位回撤的表现",
           "url": "https://wallstreetcn.com/livenews/2989825",
           "source": "华尔街见闻-快讯",
@@ -308,17 +331,6 @@
           "time_info": "[00时34分 ~ 01时23分]"
         },
         {
-          "title": "黄金在全球“外汇黄金储备“比例已升至30%，若追平美元，金价需升至5790美元",
-          "url": "https://wallstreetcn.com/articles/3757430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 22时18分]"
-        },
-        {
           "title": "金价暴涨男子买黄金反亏千元",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E7%94%B7%E5%AD%90%E4%B9%B0%E9%BB%84%E9%87%91%E5%8F%8D%E4%BA%8F%E5%8D%83%E5%85%83%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D26%26stream_entry_id%3D31%26flag%3D1%26realpos%3D27%26dgr%3D0%26band_rank%3D27%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E7%2594%25B7%25E5%25AD%2590%25E4%25B9%25B0%25E9%25BB%2584%25E9%2587%2591%25E5%258F%258D%25E4%25BA%258F%25E5%258D%2583%25E5%2585%2583%2523%26display_time%3D1760717405%26pre_seqid%3D176071740596303613146106",
           "source": "微博",
@@ -328,17 +340,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 00时34分]"
-        },
-        {
-          "title": "中美通话如何影响黄金价格",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 22时18分]"
         },
         {
           "title": "黄金价格“抛物线式”上涨",
@@ -363,6 +364,17 @@
           "time_info": "13时25分"
         },
         {
+          "title": "金价高位震荡 多个交易所提示风险",
+          "url": "https://www.toutiao.com/trending/7562537975360261674/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "金价涨到头了吗",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%B6%A8%E5%88%B0%E5%A4%B4%E4%BA%86%E5%90%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D30%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%25B6%25A8%25E5%2588%25B0%25E5%25A4%25B4%25E4%25BA%2586%25E5%2590%2597%2523%26dgr%3D2%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26flag%3D1%26realpos%3D30%26cate%3D5001%26pos%3D30%26display_time%3D1760761401%26pre_seqid%3D17607614017790355440511",
           "source": "微博",
@@ -384,11 +396,12 @@
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时48分 ~ 22时18分]"
+          "appearance_count": 17,
+          "time_info": "[09时48分 ~ 23时19分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
