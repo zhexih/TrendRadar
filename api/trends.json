@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-18T16:33:30.097049+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2025-10-18T17:24:04.551228+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
           "url": "https://news.ifeng.com/c/8nXp14yHS6o",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时48分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 17时24分]"
         },
         {
           "title": "特朗普：美国也需要，不能把家底掏空",
@@ -50,6 +51,22 @@
           "time_info": "[00时33分 ~ 16时33分]"
         },
         {
+          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
+          "url": "https://www.cls.cn/detail/2173372",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 17时24分]"
+        },
+        {
           "title": "美俄讨论美供乌“战斧”，特朗普：普京不高兴",
           "url": "https://news.ifeng.com/c/8nWlNWrEz3l",
           "source": "凤凰网",
@@ -61,19 +78,18 @@
           "time_info": "[00时33分 ~ 04时29分]"
         },
         {
-          "title": "特朗普与泽连斯基再度会面：希望能在不动用“战斧”的情况下结束冲突",
-          "url": "https://www.cls.cn/detail/2173372",
-          "source": "财联社热门",
+          "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31801773",
+          "source": "澎湃新闻",
           "ranks": [
-            12,
-            9,
-            8,
-            7,
-            6
+            16,
+            19,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时48分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 17时24分]"
         },
         {
           "title": "俄美峰会地点定了！俄方公布13点普京特朗普通话成果，释放何信号？",
@@ -101,20 +117,6 @@
           "time_info": "[00时33分 ~ 07时23分]"
         },
         {
-          "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31801773",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时48分 ~ 16时33分]"
-        },
-        {
           "title": "泽连斯基穿上正装 特朗普：我很喜欢",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A9%BF%E4%B8%8A%E6%AD%A3%E8%A3%85+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%BE%88%E5%96%9C%E6%AC%A2",
           "source": "百度热搜",
@@ -125,6 +127,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时48分 ~ 13时25分]"
+        },
+        {
+          "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
+          "url": "https://news.ifeng.com/c/8nXtfp1w62H",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时35分 ~ 17时24分]"
         },
         {
           "title": "俄美总统通话 2.5 小时，普京正告特朗普「战斧」不会改变俄乌战局，双方还谈了什么？释放哪些信号？",
@@ -154,6 +168,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普又抛歪理：都怪尼克松引出中国这个强敌",
+          "url": "https://news.ifeng.com/c/8nYLhA743YV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "特朗普称美军在加勒比海域袭击一艘“运毒潜艇”",
@@ -209,16 +234,26 @@
           "time_info": "[11时00分 ~ 14时34分]"
         },
         {
-          "title": "乌消息人士：泽连斯基向特朗普展示了俄境内潜在打击目标地图",
-          "url": "https://news.ifeng.com/c/8nXtfp1w62H",
-          "source": "凤凰网",
+          "title": "特朗普又抛歪理：都怪尼克松引出中国",
+          "url": "https://www.toutiao.com/trending/7562460355021619227/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时35分 ~ 16时33分]"
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
+        },
+        {
+          "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
+          "url": "https://news.ifeng.com/c/8nYEKd4N1Y8",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 17时24分]"
         },
         {
           "title": "外媒：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
@@ -260,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "特朗普为他减刑 共和党前“丑闻议员”桑托斯出狱",
+          "url": "https://wallstreetcn.com/livenews/2990050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "金十提示：美国总统特朗普在白宫的记者会结束。",
@@ -305,11 +351,23 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 17时24分]"
+        },
+        {
+          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
+          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普：西班牙对北约并不忠诚。",
@@ -334,6 +392,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时35分 ~ 14时34分]"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
+          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时24分]"
+        },
+        {
+          "title": "俄总统代表提议建“普京-特朗普隧道”，乌总统称“不满意”",
+          "url": "https://wallstreetcn.com/livenews/2990025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时23分 ~ 17时24分]"
         },
         {
           "title": "英国央行货币政策委员会(MPC)委员Greene：央行货币政策并不具有实质性的限制性。 应当放慢降息周期。 核心通胀和服务通长痘呈现出单边走势。 担心（美国总统特朗普挑起的关税的）第二轮（通胀）效应。 企业对意外的通胀上行变得更加敏感。",
@@ -369,18 +451,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时33分 ~ 02时34分]"
-        },
-        {
-          "title": "俄总统代表提议建“普京-特朗普隧道”，乌总统称“不满意”",
-          "url": "https://wallstreetcn.com/livenews/2990025",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时33分]"
         },
         {
           "title": "外媒爆：乌消息人士称，泽连斯基向特朗普展示了俄罗斯境内潜在打击目标地图",
@@ -509,6 +579,18 @@
           "time_info": "[05时23分 ~ 07时23分]"
         },
         {
+          "title": "若特朗普关税被判“非法”意味什么",
+          "url": "https://www.toutiao.com/trending/7562451405152194084/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时24分]"
+        },
+        {
           "title": "和普京通话后特朗普的态度变了吗",
           "url": "https://www.toutiao.com/trending/7562374428537916978/",
           "source": "今日头条",
@@ -519,28 +601,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时00分 ~ 11时35分]"
-        },
-        {
-          "title": "普京特使提议“建个隧道把俄美连起来”，特朗普回应了",
-          "url": "https://news.ifeng.com/c/8nY5myFfFkF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时33分]"
-        },
-        {
-          "title": "特朗普与泽连斯基在白宫会晤，美媒：气氛紧张",
-          "url": "https://news.ifeng.com/c/8nXw1CnFw3c",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 16时33分]"
         },
         {
           "title": "特朗普再次宣称：印度不会购买俄罗斯石油",
@@ -739,17 +799,6 @@
           "time_info": "12时29分"
         },
         {
-          "title": "若特朗普关税被判“非法”意味什么",
-          "url": "https://www.toutiao.com/trending/7562451405152194084/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "特朗普呼吁俄乌双方立即停火",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E4%BF%84%E4%B9%8C%E5%8F%8C%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E7%81%AB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D19%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%2591%25BC%25E5%2590%2581%25E4%25BF%2584%25E4%25B9%258C%25E5%258F%258C%25E6%2596%25B9%25E7%25AB%258B%25E5%258D%25B3%25E5%2581%259C%25E7%2581%25AB%2523%26dgr%3D2%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26flag%3D1%26realpos%3D19%26cate%3D5001%26pos%3D19%26display_time%3D1760761401%26pre_seqid%3D17607614017790355440511",
           "source": "微博",
@@ -885,8 +934,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时23分 ~ 16时33分]"
+          "appearance_count": 12,
+          "time_info": "[07时23分 ~ 17时24分]"
         },
         {
           "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
@@ -1049,6 +1098,21 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "金价银价大跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D4%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26pos%3D3%26realpos%3D4%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26display_time%3D1760756182%26pre_seqid%3D176075618220502736577111",
+          "source": "微博",
+          "ranks": [
+            4,
+            5,
+            22,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时00分 ~ 17时24分]"
+        },
+        {
           "title": "金价暴涨时4万5黄金订单蒸发",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B64%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D8%26stream_entry_id%3D31%26flag%3D0%26realpos%3D9%26dgr%3D0%26band_rank%3D9%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E6%2597%25B64%25E4%25B8%25875%25E9%25BB%2584%25E9%2587%2591%25E8%25AE%25A2%25E5%258D%2595%25E8%2592%25B8%25E5%258F%2591%2523%26display_time%3D1760717405%26pre_seqid%3D176071740596303613146106",
           "source": "微博",
@@ -1064,19 +1128,16 @@
           "time_info": "[00时33分 ~ 09时48分]"
         },
         {
-          "title": "金价银价大跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D4%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26pos%3D3%26realpos%3D4%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26display_time%3D1760756182%26pre_seqid%3D176075618220502736577111",
-          "source": "微博",
+          "title": "金价银价大跳水 国内金饰价格下调",
+          "url": "https://www.toutiao.com/trending/7562444745599880713/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            5,
-            22,
-            23,
-            21
+            9,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时00分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时24分]"
         },
         {
           "title": "金价",
@@ -1150,17 +1211,6 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
-          "title": "金价银价大跳水 国内金饰价格下调",
-          "url": "https://www.toutiao.com/trending/7562444745599880713/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "金价继续冲击新高",
           "url": "https://www.toutiao.com/trending/7562389196388716068/",
           "source": "今日头条",
@@ -1196,8 +1246,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时48分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[09时48分 ~ 17时24分]"
         },
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
