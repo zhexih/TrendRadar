@@ -86,3 +86,10 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "solidot"
+    name: "奇客"
+  - id: "fastbull-news"
+    name: "法布财经"
+  - id: "zaobao"
+    name: "联合早报"
+
