@@ -7,6 +7,7 @@
 - generate_html_report: 生成 HTML 报告
 """
 
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Callable
 
@@ -154,6 +155,7 @@ def generate_html_report(
     render_html_func: Optional[Callable] = None,
     matches_word_groups_func: Optional[Callable] = None,
     load_frequency_words_func: Optional[Callable] = None,
+    render_card_func: Optional[Callable] = None,
 ) -> str:
     """
     生成 HTML 报告
@@ -178,6 +180,7 @@ def generate_html_report(
         render_html_func: HTML 渲染函数
         matches_word_groups_func: 词组匹配函数
         load_frequency_words_func: 加载频率词函数
+        render_card_func: 卡片式 HTML 渲染函数
 
     Returns:
         str: 生成的 HTML 文件路径（时间戳快照路径）
@@ -232,5 +235,30 @@ def generate_html_report(
     root_index = Path("index.html")
     with open(root_index, "w", encoding="utf-8") as f:
         f.write(html_content)
+
+    # 5. 生成卡片式 HTML（如果提供了渲染函数）
+    if render_card_func:
+        card_content = render_card_func(
+            report_data, total_titles, mode, update_info
+        )
+        card_dir = Path(output_dir) / "html" / "card"
+        card_dir.mkdir(parents=True, exist_ok=True)
+        ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+        card_file = card_dir / f"热点播报卡片_{ts}.html"
+        with open(card_file, "w", encoding="utf-8") as f:
+            f.write(card_content)
+
+    # 6. 铸造 ljg-card PNG（如果提供了铸造函数）
+    if render_card_func:
+        try:
+            from trendradar.report.card_cast import generate_card_images
+            generate_card_images(
+                report_data=report_data,
+                total_titles=total_titles,
+                mode=mode,
+                output_dir=output_dir,
+            )
+        except Exception as e:
+            print(f"[报告] ljg-card 铸造跳过: {e}")
 
     return snapshot_file

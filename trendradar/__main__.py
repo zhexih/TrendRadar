@@ -28,6 +28,7 @@ from trendradar.storage import convert_crawl_results_to_news_data
 from trendradar.utils.time import DEFAULT_TIMEZONE, is_within_days, calculate_days_old
 from trendradar.ai import AIAnalyzer, AIAnalysisResult
 from trendradar.core.scheduler import ResolvedSchedule
+from trendradar.report import prepare_report_data
 
 
 def _parse_version(version_str: str) -> Tuple[int, int, int]:
@@ -901,6 +902,16 @@ class NewsAnalyzer:
                 standalone_data=standalone_data,
                 frequency_file=self.frequency_file,
             )
+
+        # ljg-card 卡片铸造（如果启用）
+        if self.ctx.card_view_enabled and html_file:
+            try:
+                report_data = prepare_report_data(stats, new_titles, failed_ids)
+                self.ctx.cast_card_images(
+                    report_data, total_titles, mode=mode, ai_analysis=ai_result
+                )
+            except Exception as e:
+                print(f"[卡片] 铸造跳过: {e}")
 
         return stats, html_file, ai_result, rss_items
 

@@ -127,6 +127,23 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
+    # UAE 地区新闻源
+    - id: "google-news-uae-en"
+      name: "Google News UAE (EN)"
+      url: "https://news.google.com/rss?hl=en-US&gl=AE&ceid=AE:en"
+
+    - id: "google-news-uae-business"
+      name: "Google News 阿联酋商业"
+      url: "https://news.google.com/rss/search?q=UAE+business+retail&hl=en-US&gl=AE&ceid=AE:en"
+
+    - id: "google-news-dubai-retail"
+      name: "Google News 迪拜零售"
+      url: "https://news.google.com/rss/search?q=Dubai+shopping+retail+mall&hl=en-US&gl=AE&ceid=AE:en"
+
+    - id: "google-news-gulf-business"
+      name: "Google News 海湾商业"
+      url: "https://news.google.com/rss/search?q=Gulf+UAE+economy+consumer&hl=en-US&gl=AE&ceid=AE:en"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
@@ -417,7 +434,7 @@ ai:
   
   model: "deepseek/deepseek-chat"
 
-  api_key: ""                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: ""                       # API Key（留空则自动读取环境变量 AI_API_KEY）
   
   api_base: ""                      # 自定义 API 端点（可选，大多数情况留空）
                                     # 示例: https://api.openai.com/v1（自建代理或兼容接口）
@@ -594,3 +611,14 @@ advanced:
     slack: 4000
   batch_send_interval: 3              # 批次发送间隔（秒）
   feishu_message_separator: "━━━━━━━━━━━━━━━━"
+
+
+# ===============================================================
+# 12. 卡片式热点播报视图
+# ===============================================================
+card_view:
+  enabled: true                        # 是否启用卡片式播报视图
+  auto_refresh_minutes: 5              # 自动刷新间隔（分钟）
+  cards_per_page: 50                   # 单页最大卡片数（0=不限制）
+  show_ai_summary: true                # 是否显示 AI 分析摘要
+  theme: "light"                       # 默认主题: light | dark

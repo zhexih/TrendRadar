@@ -20,6 +20,8 @@ from trendradar.report.helpers import (
 )
 from trendradar.report.formatter import format_title_for_platform
 from trendradar.report.html import render_html_content
+from trendradar.report.card_html import render_card_html_content
+from trendradar.report.card_cast import generate_card_images
 from trendradar.report.generator import (
     prepare_report_data,
     generate_html_report,
@@ -34,6 +36,10 @@ __all__ = [
     "format_title_for_platform",
     # HTML 渲染
     "render_html_content",
+    # 卡片式 HTML 渲染
+    "render_card_html_content",
+    # ljg-card 卡片铸造（PNG）
+    "generate_card_images",
     # 报告生成器
     "prepare_report_data",
     "generate_html_report",

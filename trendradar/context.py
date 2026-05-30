@@ -31,6 +31,8 @@ from trendradar.report import (
     prepare_report_data,
     generate_html_report,
     render_html_content,
+    render_card_html_content,
+    generate_card_images,
 )
 from trendradar.notification import (
     render_feishu_content,
@@ -153,6 +155,16 @@ class AppContext:
     def ai_filter_enabled(self) -> bool:
         """AI 筛选是否启用（基于 filter.method 判断）"""
         return self.filter_method == "ai"
+
+    @property
+    def card_view_config(self) -> Dict:
+        """获取卡片视图配置"""
+        return self.config.get("CARD_VIEW", {})
+
+    @property
+    def card_view_enabled(self) -> bool:
+        """卡片视图是否启用"""
+        return self.card_view_config.get("ENABLED", False)
 
     # === 时间操作 ===
 
@@ -322,6 +334,13 @@ class AppContext:
         frequency_file: Optional[str] = None,
     ) -> str:
         """生成HTML报告"""
+        render_card_func = None
+        if self.card_view_enabled:
+            render_card_func = lambda *args, **kwargs: self.render_card_html(
+                *args, rss_items=rss_items, rss_new_items=rss_new_items,
+                ai_analysis=ai_analysis, standalone_data=standalone_data, **kwargs
+            )
+
         return generate_html_report(
             stats=stats,
             total_titles=total_titles,
@@ -337,6 +356,7 @@ class AppContext:
             render_html_func=lambda *args, **kwargs: self.render_html(*args, rss_items=rss_items, rss_new_items=rss_new_items, ai_analysis=ai_analysis, standalone_data=standalone_data, **kwargs),
             matches_word_groups_func=self.matches_word_groups,
             load_frequency_words_func=lambda: self.load_frequency_words(frequency_file),
+            render_card_func=render_card_func,
         )
 
     def render_html(
@@ -364,6 +384,52 @@ class AppContext:
             ai_analysis=ai_analysis,
             show_new_section=self.show_new_section,
             standalone_data=standalone_data,
+        )
+
+    def render_card_html(
+        self,
+        report_data: Dict,
+        total_titles: int,
+        mode: str = "daily",
+        update_info: Optional[Dict] = None,
+        rss_items: Optional[List[Dict]] = None,
+        rss_new_items: Optional[List[Dict]] = None,
+        ai_analysis: Optional[Any] = None,
+        standalone_data: Optional[Dict] = None,
+    ) -> str:
+        """渲染卡片式HTML内容"""
+        return render_card_html_content(
+            report_data=report_data,
+            total_titles=total_titles,
+            mode=mode,
+            update_info=update_info,
+            region_order=self.region_order,
+            get_time_func=self.get_time,
+            rss_items=rss_items,
+            rss_new_items=rss_new_items,
+            display_mode=self.display_mode,
+            ai_analysis=ai_analysis,
+            show_new_section=self.show_new_section,
+            standalone_data=standalone_data,
+            card_config=self.card_view_config,
+        )
+
+    def cast_card_images(
+        self,
+        report_data: Dict,
+        total_titles: int,
+        mode: str = "daily",
+        ai_analysis: Optional[Any] = None,
+    ) -> List[str]:
+        """使用 ljg-card 铸造热点卡片 PNG"""
+        return generate_card_images(
+            report_data=report_data,
+            total_titles=total_titles,
+            mode=mode,
+            get_time_func=self.get_time,
+            output_dir="output",
+            card_config=self.card_view_config,
+            ai_analysis=ai_analysis,
         )
 
     # === 通知内容渲染 ===
